@@ -281,15 +281,15 @@ body {
 }
 
 .passage-text a {
-  color: var(--accent);
+  color: var(--gold);
   text-decoration: underline;
-  text-decoration-color: rgba(123, 46, 43, 0.3);
+  text-decoration-color: rgba(181, 148, 58, 0.4);
   text-underline-offset: 2px;
   transition: text-decoration-color 0.15s;
 }
 
 .passage-text a:hover {
-  text-decoration-color: var(--accent);
+  text-decoration-color: var(--gold);
 }
 
 /* Collapse button on expanded passages */
