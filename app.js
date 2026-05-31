@@ -302,6 +302,23 @@ function estimateReadingTime(wordCount) {
   return minutes === 1 ? '1 min' : `${minutes} min`;
 }
 
+/* ---------- Compact Header on Scroll ---------- */
+
+let lastScrollY = 0;
+const COMPACT_THRESHOLD = 80;
+
+window.addEventListener('scroll', () => {
+  const header = document.getElementById('site-header');
+  if (!header) return;
+  const y = window.scrollY;
+  if (y > COMPACT_THRESHOLD && !header.classList.contains('compact')) {
+    header.classList.add('compact');
+  } else if (y <= COMPACT_THRESHOLD && header.classList.contains('compact')) {
+    header.classList.remove('compact');
+  }
+  lastScrollY = y;
+}, { passive: true });
+
 /* ---------- Init ---------- */
 
 document.addEventListener('DOMContentLoaded', loadData);

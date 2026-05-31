@@ -50,6 +50,35 @@ body {
   position: sticky;
   top: 0;
   z-index: 100;
+  transition: padding 0.25s ease;
+}
+
+#site-header.compact .doc-title {
+  font-size: 1rem;
+  letter-spacing: 0.03em;
+  margin-bottom: 0;
+}
+
+#site-header.compact .doc-subtitle,
+#site-header.compact .doc-source {
+  display: none;
+}
+
+#site-header.compact {
+  padding: 0.5rem 1rem 0.4rem;
+}
+
+#site-header.compact .tier-controls {
+  margin-bottom: 0.3rem;
+}
+
+#site-header.compact .tier-pill {
+  padding: 0.2rem 0.7rem;
+  font-size: 0.72rem;
+}
+
+#site-header.compact .tier-status {
+  font-size: 0.7rem;
 }
 
 .header-inner {
