@@ -71,7 +71,12 @@ function openMobileFootnote(number) {
     html += `<span class="fn-category">${formatMobileCategory(fn.category)}</span>`;
   }
   if (fn.sourceTitle) {
-    html += `<div class="fn-source-title">${fn.sourceTitle}</div>`;
+    const url = getFootnoteSourceUrl(fn);
+    if (url) {
+      html += `<div class="fn-source-title"><a href="${url}" target="_blank" rel="noopener">${fn.sourceTitle}</a></div>`;
+    } else {
+      html += `<div class="fn-source-title">${fn.sourceTitle}</div>`;
+    }
   }
   html += `<div class="fn-text">${cleanText}</div>`;
   if (fn.bibleRef && fn.bibleText) {

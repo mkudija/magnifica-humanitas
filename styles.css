@@ -602,6 +602,12 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.fn-source-title a {
+  color: var(--gold);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .fn-bible-text {
   background: var(--gold-bg);
   border-left: 3px solid var(--gold-border);
