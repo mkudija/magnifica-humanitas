@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Magnifica Humanitas — Pope Leo XIV</title>
+  <meta name="description" content="Progressive reading interface for Magnifica Humanitas, the encyclical of Pope Leo XIV on safeguarding the human person in the time of artificial intelligence." />
+  <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header id="site-header">
+    <div class="header-inner">
+      <h1 class="doc-title">Magnifica Humanitas</h1>
+      <p class="doc-subtitle" id="doc-subtitle"></p>
+      <div class="tier-controls" id="tier-controls"></div>
+      <p class="tier-status" id="tier-status"></p>
+    </div>
+  </header>
+
+  <!-- Main layout -->
+  <div class="layout">
+
+    <!-- TOC sidebar -->
+    <nav id="toc" aria-label="Table of Contents"></nav>
+
+    <!-- Reading pane (sidenotes rendered inline via JS) -->
+    <main id="reading-pane" role="main"></main>
+
+  </div>
+
+  <!-- Mobile footnote sheet (hidden on desktop, used as fallback on narrow screens) -->
+  <div class="fn-overlay" id="fn-overlay"></div>
+  <aside id="fn-mobile-panel" class="fn-mobile-panel" aria-label="Footnote detail">
+    <button class="fn-close" id="fn-close" aria-label="Close">&times;</button>
+    <div class="fn-content" id="fn-content"></div>
+  </aside>
+
+  <script src="app.js"></script>
+  <script src="toc.js"></script>
+  <script src="reading-pane.js"></script>
+  <script src="footnotes.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+# Design docs (tracked separately)
+docs/
+
+# Source HTML (large, re-downloadable from vatican.va)
+source/
+
+# Pipeline intermediates (rebuild with scripts/)
+data/raw-document.json
+data/scored-document.json
+data/enriched-footnotes.json
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store

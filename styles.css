@@ -1,0 +1,694 @@
+/* ============================================================
+   Magnifica Humanitas — Styles
+   ============================================================ */
+
+/* ---------- Reset & Base ---------- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #FAF8F2;
+  --text: #1C1A18;
+  --text-muted: #6B6560;
+  --accent: #7B2E2B;
+  --accent-light: rgba(123, 46, 43, 0.10);
+  --gold: #B5943A;
+  --gold-bg: rgba(181, 148, 58, 0.08);
+  --gold-border: rgba(181, 148, 58, 0.35);
+  --border: #E0DCD5;
+  --border-light: #EDE9E2;
+  --serif: 'Lora', Georgia, 'Times New Roman', serif;
+  --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --reading-width: 640px;
+  --sidenote-width: 200px;
+  --sidenote-gap: 24px;
+  --toc-width: 220px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--serif);
+  font-size: 17px;
+  line-height: 1.7;
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* ---------- Header ---------- */
+#site-header {
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 2rem 1.5rem 1.25rem;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-inner {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.doc-title {
+  font-family: var(--serif);
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--text);
+  margin-bottom: 0.15rem;
+}
+
+.doc-subtitle {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+}
+
+/* Tier pills */
+.tier-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.6rem;
+}
+
+.tier-pill {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.35rem 1rem;
+  border: 1.5px solid var(--border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.tier-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.tier-pill.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.tier-status {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  min-height: 1.2em;
+}
+
+/* ---------- Layout ---------- */
+.layout {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* ---------- TOC Sidebar ---------- */
+#toc {
+  position: sticky;
+  top: 160px;
+  width: var(--toc-width);
+  min-width: var(--toc-width);
+  height: fit-content;
+  max-height: calc(100vh - 180px);
+  overflow-y: auto;
+  padding: 1rem 0.75rem;
+  margin-right: 2rem;
+  flex-shrink: 0;
+  font-family: var(--sans);
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+#toc::-webkit-scrollbar {
+  display: none;
+}
+
+.toc-chapter,
+.toc-section {
+  display: block;
+  padding: 3px 8px;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: var(--text-muted);
+  text-decoration: none;
+  border-radius: 4px;
+  border-left: 3px solid transparent;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+  cursor: pointer;
+}
+
+.toc-chapter {
+  font-weight: 600;
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+
+.toc-chapter:first-child {
+  margin-top: 0;
+}
+
+.toc-section {
+  padding-left: 20px;
+  font-size: 0.73rem;
+}
+
+.toc-chapter:hover,
+.toc-section:hover {
+  background: rgba(0,0,0,0.04);
+  color: var(--text);
+}
+
+.toc-chapter.active,
+.toc-section.active {
+  background: var(--accent-light);
+  color: var(--accent);
+  border-left-color: var(--accent);
+  font-weight: 600;
+}
+
+.toc-section.dimmed {
+  opacity: 0.4;
+}
+
+.toc-section.dimmed:hover {
+  opacity: 0.7;
+}
+
+/* ---------- Reading Pane ---------- */
+#reading-pane {
+  flex: 1;
+  max-width: calc(var(--reading-width) + var(--sidenote-width) + var(--sidenote-gap));
+  padding: 2rem 0 4rem;
+  padding-right: calc(var(--sidenote-width) + var(--sidenote-gap));
+  min-height: calc(100vh - 200px);
+  position: relative;
+}
+
+/* Chapter heading */
+.chapter-heading {
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-align: center;
+  color: var(--text);
+  margin: 2.5rem 0 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.chapter-heading:first-child {
+  margin-top: 0;
+}
+
+/* Section heading */
+.section-heading {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin: 2rem 0 0.75rem;
+  font-style: italic;
+}
+
+/* Passages / paragraphs */
+.passage {
+  margin-bottom: 1.1rem;
+  position: relative;
+  animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.passage-number {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  opacity: 0.5;
+  margin-right: 0.35rem;
+  user-select: none;
+}
+
+.passage-text {
+  text-align: justify;
+  hyphens: auto;
+}
+
+.passage-text em, .passage-text i {
+  font-style: italic;
+}
+
+.passage-text a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-color: rgba(123, 46, 43, 0.3);
+  text-underline-offset: 2px;
+  transition: text-decoration-color 0.15s;
+}
+
+.passage-text a:hover {
+  text-decoration-color: var(--accent);
+}
+
+/* Collapse button on expanded passages */
+.collapse-btn {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  background: none;
+  border: none;
+  cursor: pointer;
+  opacity: 0.5;
+  padding: 0.15rem 0.4rem;
+  margin-left: 0.25rem;
+  transition: opacity 0.15s;
+}
+
+.collapse-btn:hover {
+  opacity: 1;
+  color: var(--accent);
+}
+
+/* ---------- Ellipsis Gaps ---------- */
+.ellipsis-gap {
+  text-align: center;
+  margin: 0.8rem 0;
+}
+
+.ellipsis-toggle {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  color: var(--gold);
+  background: none;
+  border: 1px dashed var(--gold-border);
+  border-radius: 999px;
+  padding: 0.3rem 1rem;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.ellipsis-toggle:hover {
+  background: var(--gold-bg);
+  border-color: var(--gold);
+}
+
+.ellipsis-dots {
+  font-weight: 700;
+  letter-spacing: 0.15em;
+}
+
+.ellipsis-label {
+  font-style: italic;
+}
+
+/* AI context note */
+.ai-context-note {
+  background: var(--gold-bg);
+  border-left: 3px solid var(--gold-border);
+  border-radius: 0 6px 6px 0;
+  padding: 0.75rem 1rem;
+  margin: 0.6rem 0;
+  animation: fadeIn 0.2s ease;
+}
+
+.ai-icon {
+  color: var(--gold);
+  font-weight: 700;
+  margin-right: 0.3rem;
+}
+
+.ai-text {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+
+.show-passage-btn {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
+  background: none;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  padding: 0.25rem 0.75rem;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.show-passage-btn:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* ---------- Footnote markers ---------- */
+.fn-marker {
+  font-family: var(--sans);
+  font-size: 0.62rem;
+  font-weight: 600;
+  color: slategrey;
+  background: rgba(150, 150, 150, 0.08);
+  border: 1px solid rgba(150, 150, 150, 0.2);
+  border-radius: 8px;
+  padding: 1px 5px;
+  margin-left: 2px;
+  cursor: pointer;
+  vertical-align: super;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+  display: inline-block;
+  line-height: 1.4;
+}
+
+.fn-marker:hover {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+/* ---------- Sidenotes (Tufte-style) ---------- */
+
+/* Passages need relative positioning so sidenotes can anchor to them */
+.passage {
+  position: relative;
+}
+
+.sidenote {
+  position: absolute;
+  right: calc(-1 * (var(--sidenote-width) + var(--sidenote-gap)));
+  width: var(--sidenote-width);
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  line-height: 1.45;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.sidenote:hover {
+  color: var(--text);
+}
+
+.sidenote-number {
+  font-weight: 700;
+  font-size: 0.65rem;
+  color: var(--accent);
+  margin-right: 3px;
+}
+
+.sidenote-category {
+  font-size: 0.58rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  opacity: 0.6;
+  display: block;
+  margin-top: 2px;
+}
+
+/* Expanded sidenote (clicked for detail) */
+.sidenote.expanded {
+  color: var(--text);
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.6rem 0.7rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  z-index: 10;
+}
+
+.sidenote.expanded .sidenote-full {
+  display: block;
+}
+
+.sidenote-full {
+  display: none;
+  margin-top: 0.4rem;
+  padding-top: 0.4rem;
+  border-top: 1px solid var(--border-light);
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.sidenote-full .fn-source-title {
+  font-size: 0.7rem;
+  color: var(--accent);
+  font-style: italic;
+  margin-bottom: 0.3rem;
+}
+
+.sidenote-full .fn-bible-text {
+  background: var(--gold-bg);
+  border-left: 2px solid var(--gold-border);
+  padding: 0.35rem 0.5rem;
+  font-size: 0.68rem;
+  font-style: italic;
+  line-height: 1.4;
+  margin-top: 0.35rem;
+  border-radius: 0 3px 3px 0;
+}
+
+.sidenote-close {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  font-size: 0.8rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  padding: 0 4px;
+  line-height: 1;
+  display: none;
+}
+
+.sidenote.expanded .sidenote-close {
+  display: block;
+}
+
+.sidenote-close:hover {
+  color: var(--accent);
+}
+
+/* ---------- Mobile Footnote Panel (bottom sheet fallback) ---------- */
+.fn-mobile-panel {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50vh;
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+  border-radius: 12px 12px 0 0;
+  box-shadow: 0 -4px 20px rgba(0,0,0,0.08);
+  transform: translateY(100%);
+  transition: transform 0.25s ease;
+  z-index: 200;
+  padding: 1.5rem;
+  overflow-y: auto;
+  font-family: var(--serif);
+  display: none;
+}
+
+.fn-mobile-panel.open {
+  transform: translateY(0);
+}
+
+.fn-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  font-size: 1.5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+
+.fn-close:hover {
+  background: rgba(0,0,0,0.06);
+}
+
+.fn-number {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+}
+
+.fn-text {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text);
+  margin-bottom: 1rem;
+}
+
+.fn-category {
+  font-family: var(--sans);
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  background: rgba(0,0,0,0.05);
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.fn-source-title {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--accent);
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.fn-bible-text {
+  background: var(--gold-bg);
+  border-left: 3px solid var(--gold-border);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  line-height: 1.5;
+  margin-top: 0.5rem;
+  border-radius: 0 4px 4px 0;
+}
+
+.fn-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.3);
+  z-index: 150;
+}
+
+.fn-overlay.active {
+  display: block;
+}
+
+/* ---------- AI Disclosure ---------- */
+.ai-disclosure {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+  padding: 1.5rem 0;
+  margin-top: 3rem;
+  line-height: 1.5;
+}
+
+.ai-disclosure .ai-icon {
+  color: var(--gold);
+}
+
+/* ---------- Responsive ---------- */
+
+/* Tablet: hide TOC, sidenotes become inline toggles */
+@media (max-width: 1024px) {
+  #toc {
+    display: none;
+  }
+  .layout {
+    justify-content: center;
+  }
+  #reading-pane {
+    max-width: 720px;
+    padding-left: 1rem;
+    padding-right: 1rem !important;
+  }
+  .sidenote {
+    position: static;
+    float: none;
+    display: none;
+    width: 100%;
+    margin: 0.4rem 0 0.6rem;
+    padding: 0.5rem 0.75rem;
+    background: rgba(0,0,0,0.02);
+    border-left: 2px solid var(--border);
+    border-radius: 0 4px 4px 0;
+    clear: both;
+  }
+  .sidenote.mobile-visible {
+    display: block;
+  }
+  .fn-mobile-panel {
+    display: block;
+  }
+}
+
+/* Mobile: tighten spacing */
+@media (max-width: 768px) {
+  .doc-title {
+    font-size: 1.4rem;
+  }
+  .tier-pill {
+    font-size: 0.72rem;
+    padding: 0.3rem 0.7rem;
+  }
+  #reading-pane {
+    padding: 1rem;
+  }
+  .chapter-heading {
+    font-size: 1.25rem;
+  }
+  .section-heading {
+    font-size: 1.05rem;
+  }
+}
+
+/* ---------- Utility ---------- */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
