@@ -38,6 +38,7 @@ body {
   line-height: 1.7;
   background: var(--bg);
   color: var(--text);
+  overflow-x: hidden;
 }
 
 /* ---------- Header ---------- */
@@ -120,7 +121,6 @@ body {
   margin: 0 auto;
   padding: 0 1rem;
   position: relative;
-  overflow-x: hidden;
 }
 
 /* ---------- TOC Sidebar ---------- */
@@ -129,7 +129,7 @@ body {
   top: 160px;
   width: var(--toc-width);
   min-width: var(--toc-width);
-  height: fit-content;
+  align-self: flex-start;
   max-height: calc(100vh - 180px);
   overflow-y: auto;
   padding: 1rem 0.75rem;
