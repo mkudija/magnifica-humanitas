@@ -349,9 +349,9 @@ body {
 .ellipsis-toggle {
   font-family: var(--sans);
   font-size: 0.78rem;
-  color: var(--gold);
-  background: none;
-  border: 1px dashed var(--gold-border);
+  color: #8B7225;
+  background: rgba(181, 148, 58, 0.08);
+  border: 1.5px dashed rgba(181, 148, 58, 0.5);
   border-radius: 999px;
   padding: 0.3rem 1rem;
   cursor: pointer;
@@ -362,7 +362,7 @@ body {
 }
 
 .ellipsis-toggle:hover {
-  background: var(--gold-bg);
+  background: rgba(181, 148, 58, 0.14);
   border-color: var(--gold);
 }
 
