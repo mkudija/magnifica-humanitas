@@ -89,233 +89,153 @@ BIBLE_BOOK_MAPPING = {
     'Rev': ('73 - Revelation', 'Rv'),
 }
 
-# Footnote categorization mapping (all 224 footnotes)
-FOOTNOTE_CATEGORIES = {
-    1: ('vatican-ii', 'Gaudium et Spes'),
-    2: ('vatican-ii', 'Gaudium et Spes'),
-    3: ('vatican-ii', 'Lumen Gentium'),
-    4: ('papal-encyclical', 'Rerum Novarum'),
-    5: ('papal-encyclical', 'Caritas in Veritate'),
-    6: ('papal-encyclical', 'Laudato Si\''),
-    7: ('papal-encyclical', 'Laudato Si\''),
-    8: ('church-father', 'St. Augustine - Confessions'),
-    9: ('papal-exhortation', 'Evangelii Gaudium'),
-    10: ('vatican-ii', 'Gaudium et Spes'),
-    11: ('vatican-ii', 'Gaudium et Spes'),
-    12: ('papal-exhortation', 'Evangelii Gaudium'),
-    13: ('papal-encyclical', 'Socialium Scientiarum'),
-    14: ('papal-encyclical', 'Laudato Si\''),
-    15: ('papal-encyclical', 'Sollicitudo Rei Socialis'),
-    16: ('papal-encyclical', 'Tertio Millennio Adveniente'),
-    17: ('leo-xiv', 'Address to Centesimus Annus Pro Pontifice'),
-    18: ('papal-exhortation', 'Evangelii Gaudium'),
-    19: ('papal-encyclical', 'Fratelli Tutti'),
-    20: ('vatican-ii', 'Lumen Gentium'),
-    21: ('papal-exhortation', 'Evangelii Gaudium'),
-    22: ('papal-encyclical', 'Laudato Si\''),
-    23: ('papal-encyclical', 'Fratelli Tutti'),
-    24: ('vatican-ii', 'Dignitatis Humanae'),
-    25: ('papal-encyclical', 'Pacem in Terris'),
-    26: ('papal-encyclical', 'Laudato Si\''),
-    27: ('vatican-ii', 'Gaudium et Spes'),
-    28: ('vatican-ii', 'Gaudium et Spes'),
-    29: ('papal-encyclical', 'Laudato Si\''),
-    30: ('papal-encyclical', 'Evangelium Vitae'),
-    31: ('papal-encyclical', 'Veritatis Splendor'),
-    32: ('curial', 'Compendium of Social Doctrine'),
-    33: ('papal-encyclical', 'Centesimus Annus'),
-    34: ('papal-encyclical', 'Sollicitudo Rei Socialis'),
-    35: ('papal-encyclical', 'Evangelium Vitae'),
-    36: ('papal-encyclical', 'Caritas in Veritate'),
-    37: ('papal-encyclical', 'Caritas in Veritate'),
-    38: ('papal-encyclical', 'Laudato Si\''),
-    39: ('papal-encyclical', 'Laudato Si\''),
-    40: ('papal-encyclical', 'Laudato Si\''),
-    41: ('papal-encyclical', 'Laudato Si\''),
-    42: ('papal-encyclical', 'Laudato Si\''),
-    43: ('papal-encyclical', 'Laudato Si\''),
-    44: ('papal-encyclical', 'Laudato Si\''),
-    45: ('papal-encyclical', 'Laudato Si\''),
-    46: ('papal-encyclical', 'Laudato Si\''),
-    47: ('papal-encyclical', 'Laudato Si\''),
-    48: ('papal-exhortation', 'Evangelii Gaudium'),
-    49: ('papal-encyclical', 'Laudato Si\''),
-    50: ('papal-encyclical', 'Laudato Si\''),
-    51: ('curial', 'Compendium of Social Doctrine'),
-    52: ('vatican-ii', 'Gaudium et Spes'),
-    53: ('papal-encyclical', 'Centesimus Annus'),
-    54: ('papal-encyclical', 'Sollicitudo Rei Socialis'),
-    55: ('papal-encyclical', 'Centesimus Annus'),
-    56: ('papal-encyclical', 'Centesimus Annus'),
-    57: ('papal-encyclical', 'Populorum Progressio'),
-    58: ('papal-encyclical', 'Populorum Progressio'),
-    59: ('papal-encyclical', 'Caritas in Veritate'),
-    60: ('papal-encyclical', 'Centesimus Annus'),
-    61: ('papal-encyclical', 'Laudato Si\''),
-    62: ('papal-encyclical', 'Laudato Si\''),
-    63: ('papal-encyclical', 'Laudato Si\''),
-    64: ('papal-encyclical', 'Laudato Si\''),
-    65: ('papal-encyclical', 'Laudato Si\''),
-    66: ('papal-encyclical', 'Laudato Si\''),
-    67: ('papal-encyclical', 'Laudato Si\''),
-    68: ('papal-encyclical', 'Laudato Si\''),
-    69: ('papal-encyclical', 'Laudato Si\''),
-    70: ('papal-encyclical', 'Laudato Si\''),
-    71: ('papal-encyclical', 'Laudato Si\''),
-    72: ('papal-encyclical', 'Laudato Si\''),
-    73: ('papal-encyclical', 'Laudato Si\''),
-    74: ('papal-encyclical', 'Laudato Si\''),
-    75: ('papal-encyclical', 'Laudato Si\''),
-    76: ('papal-encyclical', 'Laudato Si\''),
-    77: ('papal-encyclical', 'Laudato Si\''),
-    78: ('papal-encyclical', 'Laudato Si\''),
-    79: ('papal-exhortation', 'Evangelii Gaudium'),
-    80: ('papal-encyclical', 'Caritas in Veritate'),
-    81: ('papal-encyclical', 'Caritas in Veritate'),
-    82: ('papal-exhortation', 'Evangelii Gaudium'),
-    83: ('papal-encyclical', 'Fratelli Tutti'),
-    84: ('papal-encyclical', 'Fratelli Tutti'),
-    85: ('papal-encyclical', 'Fratelli Tutti'),
-    86: ('leo-xiv', 'Address to Members of Diplomatic Corps'),
-    87: ('papal-encyclical', 'Fratelli Tutti'),
-    88: ('papal-encyclical', 'Fratelli Tutti'),
-    89: ('papal-encyclical', 'Centesimus Annus'),
-    90: ('papal-encyclical', 'Fratelli Tutti'),
-    91: ('papal-encyclical', 'Fratelli Tutti'),
-    92: ('papal-encyclical', 'Fratelli Tutti'),
-    93: ('papal-encyclical', 'Fratelli Tutti'),
-    94: ('papal-encyclical', 'Fratelli Tutti'),
-    95: ('papal-encyclical', 'Fratelli Tutti'),
-    96: ('papal-encyclical', 'Fratelli Tutti'),
-    97: ('papal-encyclical', 'Fratelli Tutti'),
-    98: ('papal-encyclical', 'Fratelli Tutti'),
-    99: ('papal-encyclical', 'Fratelli Tutti'),
-    100: ('papal-encyclical', 'Fratelli Tutti'),
-    101: ('papal-encyclical', 'Fratelli Tutti'),
-    102: ('papal-encyclical', 'Fratelli Tutti'),
-    103: ('papal-encyclical', 'Fratelli Tutti'),
-    104: ('papal-encyclical', 'Fratelli Tutti'),
-    105: ('papal-encyclical', 'Fratelli Tutti'),
-    106: ('papal-encyclical', 'Fratelli Tutti'),
-    107: ('papal-encyclical', 'Fratelli Tutti'),
-    108: ('papal-encyclical', 'Fratelli Tutti'),
-    109: ('papal-encyclical', 'Fratelli Tutti'),
-    110: ('papal-encyclical', 'Fratelli Tutti'),
-    111: ('papal-encyclical', 'Fratelli Tutti'),
-    112: ('papal-encyclical', 'Fratelli Tutti'),
-    113: ('papal-encyclical', 'Fratelli Tutti'),
-    114: ('papal-encyclical', 'Fratelli Tutti'),
-    115: ('papal-encyclical', 'Fratelli Tutti'),
-    116: ('papal-encyclical', 'Fratelli Tutti'),
-    117: ('papal-encyclical', 'Fratelli Tutti'),
-    118: ('papal-encyclical', 'Dives in Misericordia'),
-    119: ('papal-encyclical', 'Fratelli Tutti'),
-    120: ('papal-encyclical', 'Fratelli Tutti'),
-    121: ('papal-encyclical', 'Fratelli Tutti'),
-    122: ('papal-encyclical', 'Fratelli Tutti'),
-    123: ('papal-exhortation', 'Evangelii Gaudium'),
-    124: ('papal-encyclical', 'Fratelli Tutti'),
-    125: ('papal-encyclical', 'Fratelli Tutti'),
-    126: ('papal-encyclical', 'Evangelium Vitae'),
-    127: ('papal-encyclical', 'Evangelium Vitae'),
-    128: ('papal-encyclical', 'Evangelium Vitae'),
-    129: ('papal-encyclical', 'Evangelium Vitae'),
-    130: ('vatican-ii', 'Gaudium et Spes'),
-    131: ('papal-encyclical', 'Evangelium Vitae'),
-    132: ('vatican-ii', 'Gaudium et Spes'),
-    133: ('papal-encyclical', 'Laudato Si\''),
-    134: ('papal-encyclical', 'Laudato Si\''),
-    135: ('papal-encyclical', 'Laudato Si\''),
-    136: ('papal-encyclical', 'Laudato Si\''),
-    137: ('papal-encyclical', 'Laudato Si\''),
-    138: ('papal-encyclical', 'Laudato Si\''),
-    139: ('papal-encyclical', 'Laudato Si\''),
-    140: ('papal-encyclical', 'Laudato Si\''),
-    141: ('papal-encyclical', 'Laudato Si\''),
-    142: ('papal-encyclical', 'Laudato Si\''),
-    143: ('papal-encyclical', 'Laudato Si\''),
-    144: ('papal-encyclical', 'Laudato Si\''),
-    145: ('papal-encyclical', 'Laudato Si\''),
-    146: ('papal-encyclical', 'Laudato Si\''),
-    147: ('papal-encyclical', 'Laudato Si\''),
-    148: ('papal-encyclical', 'Laudato Si\''),
-    149: ('papal-encyclical', 'Laudato Si\''),
-    150: ('papal-encyclical', 'Laudato Si\''),
-    151: ('papal-encyclical', 'Laudato Si\''),
-    152: ('papal-encyclical', 'Laudato Si\''),
-    153: ('papal-encyclical', 'Laudato Si\''),
-    154: ('papal-encyclical', 'Laudato Si\''),
-    155: ('papal-encyclical', 'Laudato Si\''),
-    156: ('papal-encyclical', 'Laudato Si\''),
-    157: ('papal-encyclical', 'Laudato Si\''),
-    158: ('papal-encyclical', 'Laudato Si\''),
-    159: ('papal-encyclical', 'Laudato Si\''),
-    160: ('papal-encyclical', 'Laudato Si\''),
-    161: ('papal-encyclical', 'Laudato Si\''),
-    162: ('papal-encyclical', 'Laudato Si\''),
-    163: ('papal-encyclical', 'Laudato Si\''),
-    164: ('papal-encyclical', 'Laudato Si\''),
-    165: ('papal-encyclical', 'Laudato Si\''),
-    166: ('leo-xiv', 'Video Message to TED Conference'),
-    167: ('papal-encyclical', 'Laudato Si\''),
-    168: ('papal-encyclical', 'Laudato Si\''),
-    169: ('papal-encyclical', 'Laudato Si\''),
-    170: ('papal-encyclical', 'Laudato Si\''),
-    171: ('papal-encyclical', 'Laudato Si\''),
-    172: ('papal-encyclical', 'Laudato Si\''),
-    173: ('papal-encyclical', 'Laudato Si\''),
-    174: ('papal-encyclical', 'Laudato Si\''),
-    175: ('papal-encyclical', 'Laudato Si\''),
-    176: ('papal-encyclical', 'Laudato Si\''),
-    177: ('papal-encyclical', 'Laudato Si\''),
-    178: ('papal-encyclical', 'Laudato Si\''),
-    179: ('papal-encyclical', 'Laudato Si\''),
-    180: ('papal-encyclical', 'Laudato Si\''),
-    181: ('papal-encyclical', 'Laudato Si\''),
-    182: ('papal-encyclical', 'Laudato Si\''),
-    183: ('papal-encyclical', 'Laudato Si\''),
-    184: ('papal-encyclical', 'Laudato Si\''),
-    185: ('papal-encyclical', 'Laudato Si\''),
-    186: ('papal-encyclical', 'Laudato Si\''),
-    187: ('papal-encyclical', 'Laudato Si\''),
-    188: ('papal-encyclical', 'Laudato Si\''),
-    189: ('papal-encyclical', 'Laudato Si\''),
-    190: ('papal-encyclical', 'Laudato Si\''),
-    191: ('papal-encyclical', 'Laudato Si\''),
-    192: ('leo-xiv', 'Message to UN General Assembly'),
-    193: ('papal-encyclical', 'Laudato Si\''),
-    194: ('papal-encyclical', 'Laudato Si\''),
-    195: ('leo-xiv', 'Address to Pontifical Academy of Sciences'),
-    196: ('papal-encyclical', 'Laudato Si\''),
-    197: ('papal-encyclical', 'Laudato Si\''),
-    198: ('papal-encyclical', 'Laudato Si\''),
-    199: ('papal-encyclical', 'Laudato Si\''),
-    200: ('papal-encyclical', 'Laudato Si\''),
-    201: ('leo-xiv', 'Address to Diplomatic Corps'),
-    202: ('vatican-ii', 'Gaudium et Spes'),
-    203: ('vatican-ii', 'Gaudium et Spes'),
-    204: ('vatican-ii', 'Gaudium et Spes'),
-    205: ('vatican-ii', 'Gaudium et Spes'),
-    206: ('papal-encyclical', 'Centesimus Annus'),
-    207: ('papal-encyclical', 'Centesimus Annus'),
-    208: ('papal-encyclical', 'Centesimus Annus'),
-    209: ('papal-exhortation', 'Evangelii Gaudium'),
-    210: ('papal-encyclical', 'Fratelli Tutti'),
-    211: ('papal-encyclical', 'Fratelli Tutti'),
-    212: ('papal-encyclical', 'Fratelli Tutti'),
-    213: ('papal-encyclical', 'Fratelli Tutti'),
-    214: ('papal-encyclical', 'Fratelli Tutti'),
-    215: ('papal-encyclical', 'Fratelli Tutti'),
-    216: ('papal-encyclical', 'Fratelli Tutti'),
-    217: ('papal-encyclical', 'Fratelli Tutti'),
-    218: ('papal-encyclical', 'Fratelli Tutti'),
-    219: ('leo-xiv', 'Homily at Mass'),
-    220: ('papal-encyclical', 'Fratelli Tutti'),
-    221: ('papal-encyclical', 'Fratelli Tutti'),
-    222: ('papal-encyclical', 'Fratelli Tutti'),
-    223: ('papal-encyclical', 'Fratelli Tutti'),
-    224: ('papal-encyclical', 'Humanae Vitae'),
+# ============================================================
+# Footnote source-title + category derivation
+#
+# Earlier versions hard-coded a per-footnote (category, sourceTitle) map that
+# drifted badly out of sync with the actual citations (most footnotes wrongly
+# showed "Fratelli Tutti" / "Laudato Si'"). We now derive both fields directly
+# from each footnote's citation text:
+#   - named works (encyclicals, councils, the Compendium, ...) are matched by
+#     title, preferring the earliest/longest match in the primary citation;
+#   - everything else (addresses, homilies, messages, books) gets a short
+#     descriptive title generated from the lead of the citation;
+#   - "Ibid." inherits the previous footnote's resolved source.
+# ============================================================
+
+# Canonical named works -> category. Longest, earliest match wins.
+WORKS = {
+    'Gaudium et Spes': 'vatican-ii', 'Lumen Gentium': 'vatican-ii', 'Dignitatis Humanae': 'vatican-ii',
+    'Rerum Novarum': 'papal-encyclical', 'Quadragesimo Anno': 'papal-encyclical', 'Mater et Magistra': 'papal-encyclical',
+    'Pacem in Terris': 'papal-encyclical', 'Populorum Progressio': 'papal-encyclical', 'Redemptor Hominis': 'papal-encyclical',
+    'Dives in Misericordia': 'papal-encyclical', 'Laborem Exercens': 'papal-encyclical', 'Sollicitudo Rei Socialis': 'papal-encyclical',
+    'Centesimus Annus': 'papal-encyclical', 'Veritatis Splendor': 'papal-encyclical', 'Evangelium Vitae': 'papal-encyclical',
+    'Caritas in Veritate': 'papal-encyclical', 'Deus Caritas Est': 'papal-encyclical', 'Spe Salvi': 'papal-encyclical',
+    'Laudato Si': 'papal-encyclical', 'Fratelli Tutti': 'papal-encyclical', 'Dilexit Nos': 'papal-encyclical',
+    'Humanae Vitae': 'papal-encyclical', 'In Plurimis': 'papal-encyclical',
+    'Evangelii Gaudium': 'papal-exhortation', 'Laudate Deum': 'papal-exhortation',
+    'Sacramentum Caritatis': 'papal-exhortation', 'Menti Nostrae': 'papal-exhortation',
+    'Octogesima Adveniens': 'apostolic-letter', 'Tertio Millennio Adveniente': 'apostolic-letter',
+    'Socialium Scientiarum': 'apostolic-letter', 'Gratissimam Sane': 'apostolic-letter',
+    'Incarnationis Mysterium': 'apostolic-letter',
+    'Compendium of the Social Doctrine of the Church': 'curial', 'Dignitas Infinita': 'curial',
+    'Antiqua et Nova': 'curial', 'Oeconomicae et Pecuniariae Quaestiones': 'curial',
+    'Confessions': 'church-father', 'De civitate Dei': 'church-father', 'Enarrationes in Psalmos': 'church-father',
+    'Summa Theologiae': 'church-doctor', 'Super Boetium de Trinitate': 'church-doctor',
 }
+WORK_KEYS = sorted(WORKS, key=len, reverse=True)
+
+# Author / corporate-author prefixes to strip when generating a descriptive title.
+AUTHORS = [
+    'Second Vatican Ecumenical Council', 'Saint John Paul II', 'Saint John XXIII', 'Saint Paul VI',
+    'Benedict XVI', 'Pius XII', 'Pius XI', 'Leo XIII', 'Francis', 'Saint Augustine', 'Saint Thomas Aquinas',
+    r'Dicastery for the Doctrine of the Faith\s*[–—-]\s*Dicastery for Culture and Education',
+    r'Dicastery for the Doctrine of the Faith\s*[–—-]\s*Dicastery for the Promotion of Integral Human Development',
+    'Dicastery for the Doctrine of the Faith', 'Pontifical Council [Ff]or Justice and Peace',
+    'International Theological Commission', 'United States Conference of Catholic Bishops', 'United Nations',
+]
+
+DESCRIPTOR_MAXLEN = 70
+
+
+def _clean_citation(text: str) -> str:
+    """Normalize whitespace and smart punctuation in a footnote's text."""
+    return (text.replace('&nbsp;', ' ').replace(' ', ' ')
+            .replace('’', "'").replace('“', '"').replace('”', '"').strip())
+
+
+def _lead_citation(t: str) -> str:
+    """Return the primary citation (before any ';' or '. Cf.'/'. Cfr.' secondary)."""
+    if t.startswith('"'):
+        # A block quotation precedes the citation; the source follows the closing quote.
+        m = re.match(r'"[^"]*"\s*', t)
+        if m:
+            t = t[m.end():].strip()
+    return re.split(r';|\.\s+Cfr?\b', t)[0].strip()
+
+
+def _find_named_work(segment: str):
+    """Find the earliest (tie-break: longest) canonical work title in a segment."""
+    best = None
+    for key in WORK_KEYS:
+        # "Centesimus Annus Pro Pontifice Foundation" is an address, not the encyclical.
+        if key == 'Centesimus Annus' and 'Centesimus Annus Pro Pontifice' in segment:
+            continue
+        idx = segment.find(key)
+        if idx != -1 and (best is None or idx < best[0] or (idx == best[0] and len(key) > len(best[1]))):
+            best = (idx, key)
+    if best:
+        disp = "Laudato Si'" if best[1] == 'Laudato Si' else best[1]
+        return WORKS[best[1]], disp
+    return None
+
+
+def _descriptor_title(lead: str):
+    """Generate a short descriptive title for a non-named source (address, book, ...)."""
+    s = re.sub(r'^(Cf\.?|Cfr\.?)\s+', '', lead).strip()
+    for a in AUTHORS:
+        m = re.match(a + r'\s*,?\s*', s)
+        if m:
+            s = s[m.end():].strip()
+            break
+    # Leading book-author initials, e.g. "R. Guardini,", "J.R.R. Tolkien,", "P. de Berulle,".
+    s = re.sub(r"^[A-Z]\.(?:[A-Z]\.)*\s*(?:de\s+)?[A-ZÀ-Þ][\wÀ-ÿ'’-]+,\s*", '', s)
+    s = re.sub(r"^(Plato|Giorgio La Pira),\s*", '', s)
+    s = re.sub(r'^[–—-]\s*', '', s)
+    s = re.sub(r'^As in the\s+', '', s)
+    s = re.sub(r'^(Apostolic Letter issued "Motu Proprio"|Apostolic Letter|Encyclical Letter|'
+               r'Dogmatic Constitution|Pastoral Constitution|Apostolic Exhortation|Declaration|Bull|'
+               r'Letter to Families|Note|Radio Message|Papal Bulls)\s+', '', s)
+    # Drop trailing publication metadata (dates, AAS/ASS refs, publishers, page numbers).
+    s = re.split(r"\s*\(\d|:\s*AAS|:\s*ASS|:\s*Insegnamenti|:\s*L'Oss|:\s*CCSL|:\s*PL|:\s*Acta|"
+                 r", ed\.|: ed\.|, Acta|, Vatican City|, San Francisco|, Würzburg|, Boston|"
+                 r", New York|, Turnhout|, Rome|, Paris|, Florence|\. Address of|\(Rome", s)[0]
+    s = re.sub(r'\s+', ' ', s).strip().strip(',').strip()
+    if len(s) > DESCRIPTOR_MAXLEN:
+        s = s[:DESCRIPTOR_MAXLEN].rsplit(' ', 1)[0] + '…'
+    return s or None
+
+
+def _descriptor_category(lead: str) -> str:
+    """Best-effort category for a non-named source."""
+    l = lead.lower()
+    if 'saint augustine' in l:
+        return 'church-father'
+    if 'saint thomas aquinas' in l:
+        return 'church-doctor'
+    if re.search(r'dicastery|pontifical council|congregation|theological commission|synod of bishops', l):
+        return 'curial'
+    if re.search(r'homily|angelus|address|message|audience|blessing|meditation|greeting|appeal|'
+                 r'regina caeli|discourse|urbi et orbi|vespers|radio message|video message', l):
+        return 'papal-address'
+    if re.search(r'guardini|arendt|tolkien|frankl|bérulle|la pira|plato|united nations charter|'
+                 r'conference of catholic bishops', l):
+        return 'reference'
+    return 'other'
+
+
+def derive_footnote_sources(footnotes: list) -> dict:
+    """Map footnote number -> (category, sourceTitle), derived from citation text."""
+    resolved = {}
+    prev = ('other', None)
+    for fn in sorted(footnotes, key=lambda f: f['number']):
+        num = fn['number']
+        t = _clean_citation(fn['text'])
+        # Internal cross-reference ("Cf. above, nos. ...") has no external source.
+        if re.match(r'^(cf\.?\s*)?(above|below)\b', t.lower()):
+            resolved[num] = prev = ('other', None)
+            continue
+        # "Ibid." inherits the previous footnote's resolved source.
+        stripped = re.sub(r'^(cf|cfr)\s*\.\s*', '', t.lower()).strip()
+        if stripped.startswith('ibid'):
+            resolved[num] = prev
+            continue
+        lead = _lead_citation(t)
+        work = _find_named_work(lead)
+        resolved[num] = work if work else (_descriptor_category(lead), _descriptor_title(lead))
+        prev = resolved[num]
+    return resolved
+
 
 RSVCE_VAULT_PATH = Path("/Users/mkudija/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian/Scripture (RSVCE)")
 
@@ -414,11 +334,14 @@ def enrich_footnotes():
     with open(raw_path, 'r') as f:
         doc = json.load(f)
 
+    # Derive (category, sourceTitle) for every footnote from its citation text
+    derived_sources = derive_footnote_sources(doc['footnotes'])
+
     # Enrich footnotes
     enriched_footnotes = []
     for fn in doc['footnotes']:
         num = fn['number']
-        category, source_title = FOOTNOTE_CATEGORIES.get(num, ('other', None))
+        category, source_title = derived_sources.get(num, ('other', None))
 
         enriched_fn = {
             'number': num,

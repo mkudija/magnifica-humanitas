@@ -2848,7 +2848,7 @@
       "number": 8,
       "text": "&nbsp;Saint Augustine, Confessions, I, 1, 1: CCSL 27, Turnhout 1981, 1.",
       "category": "church-father",
-      "sourceTitle": "St. Augustine - Confessions",
+      "sourceTitle": "Confessions",
       "bibleRef": null,
       "bibleText": null
     },
@@ -2887,7 +2887,7 @@
     {
       "number": 13,
       "text": "&nbsp;Saint John Paul II, Apostolic Letter issued “Motu Proprio” Socialium Scientiarum (1 January 1994): AAS 86 (1994), 209.",
-      "category": "papal-encyclical",
+      "category": "apostolic-letter",
       "sourceTitle": "Socialium Scientiarum",
       "bibleRef": null,
       "bibleText": null
@@ -2911,7 +2911,7 @@
     {
       "number": 16,
       "text": "&nbsp;Saint John Paul II, Apostolic Letter Tertio Millennio Adveniente&nbsp;(10 November 1994), 35: AAS 87 (1995), 27.",
-      "category": "papal-encyclical",
+      "category": "apostolic-letter",
       "sourceTitle": "Tertio Millennio Adveniente",
       "bibleRef": null,
       "bibleText": null
@@ -2919,8 +2919,8 @@
     {
       "number": 17,
       "text": "Address to the Members of the “Centesimus Annus Pro Pontifice” Foundation (17 May 2025): AAS 117 (2025), 696.",
-      "category": "leo-xiv",
-      "sourceTitle": "Address to Centesimus Annus Pro Pontifice",
+      "category": "papal-address",
+      "sourceTitle": "Address to the Members of the \"Centesimus Annus Pro Pontifice\"…",
       "bibleRef": null,
       "bibleText": null
     },
@@ -2935,8 +2935,8 @@
     {
       "number": 19,
       "text": "&nbsp;Cf. ibid., 236: AAS 105 (2013), 1115; Francis, Encyclical Letter Fratelli Tutti&nbsp;(3 October 2020), 215: AAS 112 (2020), 1045-1046.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-exhortation",
+      "sourceTitle": "Evangelii Gaudium",
       "bibleRef": null,
       "bibleText": null
     },
@@ -2951,32 +2951,32 @@
     {
       "number": 21,
       "text": "&nbsp;Cf. Saint Paul VI, Apostolic Letter Octogesima Adveniens&nbsp;(14 May 1971), 4: AAS 63 (1971), 403.",
-      "category": "papal-exhortation",
-      "sourceTitle": "Evangelii Gaudium",
+      "category": "apostolic-letter",
+      "sourceTitle": "Octogesima Adveniens",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 22,
       "text": "&nbsp;Cf. Francis, Apostolic Exhortation Evangelii Gaudium&nbsp;(24 November 2013), 243: AAS 105 (2013), 1118.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-exhortation",
+      "sourceTitle": "Evangelii Gaudium",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 23,
       "text": "&nbsp;Cf. Pius XII, Apostolic Exhortation Menti Nostrae (23 September 1950): AAS 42 (1950), 657-702.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-exhortation",
+      "sourceTitle": "Menti Nostrae",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 24,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Centesimus Annus&nbsp;(1 May 1991), 5: AAS 83 (1991), 799.",
-      "category": "vatican-ii",
-      "sourceTitle": "Dignitatis Humanae",
+      "category": "papal-encyclical",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
@@ -2984,47 +2984,47 @@
       "number": 25,
       "text": "&nbsp;Pius XI, Encyclical Letter Quadragesimo Anno&nbsp;(15 May 1931), 39: AAS 23 (1931), 189; cf. Pius XII, Radio Message on the 50th Anniversary of “Rerum Novarum”: AAS 33 (1941), 198.",
       "category": "papal-encyclical",
-      "sourceTitle": "Pacem in Terris",
+      "sourceTitle": "Quadragesimo Anno",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 26,
       "text": "&nbsp;Cf. Pius XII, Address to the Sacred College of Cardinals and the Roman Prelature (24 December 1940): AAS 33 (1941), 13.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to the Sacred College of Cardinals and the Roman Prelature",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 27,
       "text": "&nbsp;Cf. Saint John XXIII, Encyclical Letter Mater et Magistra&nbsp;(15 May 1961), 2-3: AAS 53 (1961), 402.",
-      "category": "vatican-ii",
-      "sourceTitle": "Gaudium et Spes",
+      "category": "papal-encyclical",
+      "sourceTitle": "Mater et Magistra",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 28,
       "text": "&nbsp;Cf. Saint John XXIII, Encyclical Letter Pacem in Terris&nbsp;(11 April 1963), 87: AAS 55 (1963), 301.",
-      "category": "vatican-ii",
-      "sourceTitle": "Gaudium et Spes",
+      "category": "papal-encyclical",
+      "sourceTitle": "Pacem in Terris",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 29,
       "text": "&nbsp;Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes , 26: AAS 58 (1966), 1046-1047.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "vatican-ii",
+      "sourceTitle": "Gaudium et Spes",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 30,
       "text": "&nbsp;Cfr. Second Vatican Ecumenical Council, Declaration Dignitatis Humanae, 2: AAS 58 (1966), 930-931.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Evangelium Vitae",
+      "category": "vatican-ii",
+      "sourceTitle": "Dignitatis Humanae",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3032,23 +3032,23 @@
       "number": 31,
       "text": "&nbsp;Saint Paul VI, Encyclical Letter Populorum Progressio&nbsp;(26 March 1967), 14: AAS 59 (1967), 264.",
       "category": "papal-encyclical",
-      "sourceTitle": "Veritatis Splendor",
+      "sourceTitle": "Populorum Progressio",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 32,
       "text": "Ibid ., 76: AAS 59 (1967), 299.",
-      "category": "curial",
-      "sourceTitle": "Compendium of Social Doctrine",
+      "category": "papal-encyclical",
+      "sourceTitle": "Populorum Progressio",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 33,
       "text": "&nbsp;Cf. Saint Paul VI, Apostolic Letter Octogesima Adveniens&nbsp;(14 May 1971), 4-7: AAS 63 (1971); 404-406.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Centesimus Annus",
+      "category": "apostolic-letter",
+      "sourceTitle": "Octogesima Adveniens",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3064,7 +3064,7 @@
       "number": 35,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Laborem Exercens&nbsp;(14 September 1981), 19: AAS 73 (1981), 625-629.",
       "category": "papal-encyclical",
-      "sourceTitle": "Evangelium Vitae",
+      "sourceTitle": "Laborem Exercens",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3072,7 +3072,7 @@
       "number": 36,
       "text": "&nbsp;Cf. ibid, 10: AAS 73 (1981), 600-602.",
       "category": "papal-encyclical",
-      "sourceTitle": "Caritas in Veritate",
+      "sourceTitle": "Laborem Exercens",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3080,7 +3080,7 @@
       "number": 37,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis&nbsp;(30 December 1987), 14: AAS 80 (1988), 526-528.",
       "category": "papal-encyclical",
-      "sourceTitle": "Caritas in Veritate",
+      "sourceTitle": "Sollicitudo Rei Socialis",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3088,7 +3088,7 @@
       "number": 38,
       "text": "&nbsp;Cf. ibid., 16: AAS 80 (1988), 531.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Sollicitudo Rei Socialis",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3096,7 +3096,7 @@
       "number": 39,
       "text": "&nbsp;Cf. ibid., 31-33: AAS 80 (1988), 555-559.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Sollicitudo Rei Socialis",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3104,7 +3104,7 @@
       "number": 40,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Centesimus Annus&nbsp;(1 May 1991), 46: AAS 83 (1991), 850-851.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3112,7 +3112,7 @@
       "number": 41,
       "text": "&nbsp;Cf. ibid., 42: AAS 83 (1991), 844-846.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3120,7 +3120,7 @@
       "number": 42,
       "text": "&nbsp;Benedict XVI, Encyclical Letter Caritas in Veritate&nbsp;(29 June 2009), 21: AAS 101 (2009), 656.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3128,7 +3128,7 @@
       "number": 43,
       "text": "&nbsp;Cf. ibid., 22: AAS 101 (2009), 657.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3136,7 +3136,7 @@
       "number": 44,
       "text": "&nbsp;Cf. ibid., 24: AAS 101 (2009), 658-659.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3144,7 +3144,7 @@
       "number": 45,
       "text": "&nbsp;Cf. ibid., 36: AAS 101 (2009), 671-672.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3152,23 +3152,23 @@
       "number": 46,
       "text": "Ibid., 2: AAS 101 (2009), 642.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 47,
       "text": "&nbsp;Cf. Francis, Apostolic Exhortation Evangelii Gaudium&nbsp;(24 November 2013), 198: AAS 105 (2013), 1103.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-exhortation",
+      "sourceTitle": "Evangelii Gaudium",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 48,
       "text": "&nbsp;Francis, Encyclical Letter Laudato Si ’&nbsp;(24 May 2015), 49: AAS 107 (2015), 866.",
-      "category": "papal-exhortation",
-      "sourceTitle": "Evangelii Gaudium",
+      "category": "papal-encyclical",
+      "sourceTitle": "Laudato Si'",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3176,7 +3176,7 @@
       "number": 49,
       "text": "&nbsp;Francis, Encyclical Letter Fratelli Tutti&nbsp;(3 October 2020), 127: AAS 112 (2020), 1013.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3184,7 +3184,7 @@
       "number": 50,
       "text": "&nbsp;Francis, Encyclical Letter Dilexit Nos&nbsp;(24 October 2024), 167: AAS 116 (2024), 1421.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Dilexit Nos",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3192,7 +3192,7 @@
       "number": 51,
       "text": "&nbsp;Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, Vatican City 2004, 32.",
       "category": "curial",
-      "sourceTitle": "Compendium of Social Doctrine",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3207,16 +3207,16 @@
     {
       "number": 53,
       "text": "Ibid., 22: AAS 58 (1966), 1042.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Centesimus Annus",
+      "category": "vatican-ii",
+      "sourceTitle": "Gaudium et Spes",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 54,
       "text": "&nbsp;Cf. Pontifical Council For Justice and Peace, Compendium of the Social Doctrine of the Church, 38.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Sollicitudo Rei Socialis",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3224,7 +3224,7 @@
       "number": 55,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Redemptor Hominis (4 March 1979), 14: AAS 71 (1979), 284.",
       "category": "papal-encyclical",
-      "sourceTitle": "Centesimus Annus",
+      "sourceTitle": "Redemptor Hominis",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3232,7 +3232,7 @@
       "number": 56,
       "text": "&nbsp;Cf. Benedict XVI, Encyclical Letter Caritas in Veritate&nbsp;(29 June 2009), 11: AAS 101 (2009), 647-648.",
       "category": "papal-encyclical",
-      "sourceTitle": "Centesimus Annus",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3240,15 +3240,15 @@
       "number": 57,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Veritatis Splendor&nbsp;(6 August 1993), 31: AAS 85 (1993), 1159.",
       "category": "papal-encyclical",
-      "sourceTitle": "Populorum Progressio",
+      "sourceTitle": "Veritatis Splendor",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 58,
       "text": "&nbsp;Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 26: AAS 58 (1966), 1046-1047.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Populorum Progressio",
+      "category": "vatican-ii",
+      "sourceTitle": "Gaudium et Spes",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3256,71 +3256,71 @@
       "number": 59,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Centesimus Annus&nbsp;(1 May 1991), 11: AAS 83 (1991), 806-807.",
       "category": "papal-encyclical",
-      "sourceTitle": "Caritas in Veritate",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 60,
       "text": "&nbsp;Cf. Dicastery for the Doctrine of the Faith, Declaration Dignitas Infinita&nbsp;(2 April 2024), 7: AAS 116 (2024), 592-593.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Centesimus Annus",
+      "category": "curial",
+      "sourceTitle": "Dignitas Infinita",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 61,
       "text": "&nbsp;Cf. ibid., 8: AAS 116 (2024), 593-594.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Dignitas Infinita",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 62,
       "text": "Ibid., 1: AAS 116 (2024), 589-590.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Dignitas Infinita",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 63,
       "text": "&nbsp;Cf. Saint John Paul II, Angelus with disabled people in the Cathedral of Osnabrück&nbsp;(16 November 1980): Insegnamenti di Giovanni Paolo II, vol. III/2, Vatican City 1980, 1232.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Angelus with disabled people in the Cathedral of Osnabrück",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 64,
       "text": "&nbsp;Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 152.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 65,
       "text": "&nbsp;Cf. Saint John Paul II, Address to the 50th General Assembly of the United&nbsp;Nations&nbsp;(5 October 1995), 2: Insegnamenti di Giovanni Paolo II, vol. XVIII/2, Vatican City 1998, 731.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to the 50th General Assembly of the United Nations",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 66,
       "text": "&nbsp;Saint John Paul II, Address to the 34th General Assembly of the United Nations&nbsp;(2 October 1979), 7: AAS 71 (1979), 1148.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to the 34th General Assembly of the United Nations",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 67,
       "text": "&nbsp;Saint John Paul II, Message for the 32nd World Day of Peace&nbsp;(1 January 1999), 3: AAS 91 (1999), 379.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Message for the 32nd World Day of Peace",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3328,15 +3328,15 @@
       "number": 68,
       "text": "&nbsp;Cf. Saint John XXIII, Encyclical Letter Pacem in Terris&nbsp;(11 April 1963), 5: AAS 55 (1963), 259.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Pacem in Terris",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 69,
       "text": "&nbsp;Saint Paul VI, Message to the International Conference on Human Rights (15 April 1968): AAS 60 (1968), 285.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Message to the International Conference on Human Rights",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3344,15 +3344,15 @@
       "number": 70,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Evangelium Vitae&nbsp;(25 March 1995), 2: AAS 87 (1995), 402.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Evangelium Vitae",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 71,
       "text": "&nbsp;Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 27: AAS 58 (1966), 1047-1048; cf. Saint John Paul II, Encyclical Letter Veritatis Splendor&nbsp;(6 August 1993), 80: AAS 85 (1993), 1197-1198; cf. Saint John Paul II, Encyclical Letter Evangelium Vitae&nbsp;(25 March 1995), 7-28: AAS 87 (1995), 408-427.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "vatican-ii",
+      "sourceTitle": "Gaudium et Spes",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3360,7 +3360,7 @@
       "number": 72,
       "text": "&nbsp;Francis, Encyclical Letter Fratelli Tutti&nbsp;(3 October 2020), 208: AAS 112 (2020), 1043.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3368,7 +3368,7 @@
       "number": 73,
       "text": "&nbsp;Cf. ibid., 209: AAS 112 (2020), 1043-1044.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3376,47 +3376,47 @@
       "number": 74,
       "text": "Ibid., 23: AAS 112 (2020), 977. Cf. Apostolic Exhortation Evangelii Gaudium (24 November 2013), 212: AAS 105 (2013), 1108.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 75,
       "text": "&nbsp;Benedict XVI, Apostolic Exhortation Sacramentum Caritatis&nbsp;(22 February 2007), 83: AAS 99 (2007), 169.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-exhortation",
+      "sourceTitle": "Sacramentum Caritatis",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 76,
       "text": "&nbsp;Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes , 26, AAS 58 (1966), 1046-1047.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "vatican-ii",
+      "sourceTitle": "Gaudium et Spes",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 77,
       "text": "&nbsp;Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church ,&nbsp;164.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 78,
       "text": "&nbsp;Francis, Apostolic Exhortation Evangelii Gaudium&nbsp;(24 November 2013), 235: AAS 105 (2013), 1115.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-exhortation",
+      "sourceTitle": "Evangelii Gaudium",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 79,
       "text": "&nbsp;Francis, Encyclical Letter Fratelli Tutti&nbsp;(3 October 2020), 105: AAS 112 (2020), 1005.",
-      "category": "papal-exhortation",
-      "sourceTitle": "Evangelii Gaudium",
+      "category": "papal-encyclical",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3424,23 +3424,23 @@
       "number": 80,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis&nbsp;(30 December 1987), 38: AAS 80 (1988), 564.",
       "category": "papal-encyclical",
-      "sourceTitle": "Caritas in Veritate",
+      "sourceTitle": "Sollicitudo Rei Socialis",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 81,
       "text": "&nbsp;Francis, Apostolic Exhortation Evangelii Gaudium&nbsp;(24 November 2013), 220: AAS 105 (2013), 1110.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Caritas in Veritate",
+      "category": "papal-exhortation",
+      "sourceTitle": "Evangelii Gaudium",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 82,
       "text": "&nbsp;Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church , 169.",
-      "category": "papal-exhortation",
-      "sourceTitle": "Evangelii Gaudium",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3455,32 +3455,32 @@
     {
       "number": 84,
       "text": "&nbsp;Cf. Saint John Paul II, Address to the 50th General Assembly of the United Nations&nbsp;(5 October 1995), 8: Insegnamenti di Giovanni Paolo II, vol. XVIII/2, 735.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Address to the 50th General Assembly of the United Nations",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 85,
       "text": "&nbsp;Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 171.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 86,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 31: AAS 83 (1991), 831.",
-      "category": "leo-xiv",
-      "sourceTitle": "Address to Members of Diplomatic Corps",
+      "category": "papal-encyclical",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 87,
       "text": "&nbsp;Saint John Paul II, Homily during the Mass celebrated for farmers at Recife (7 July 1980), 4: AAS 72 (1980), 926.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Homily during the Mass celebrated for farmers at Recife",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3488,7 +3488,7 @@
       "number": 88,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Laborem Exercens&nbsp;(14 September 1981), 19: AAS 73 (1981), 626.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Laborem Exercens",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3496,23 +3496,23 @@
       "number": 89,
       "text": "&nbsp;Francis, Encyclical Letter Laudato Si ’&nbsp;(24 May 2015), 93: AAS 107 (2015), 884; cf. Encyclical Letter Fratelli Tutti&nbsp;(3 October 2020), 120: AAS 112 (2020), 1010.",
       "category": "papal-encyclical",
-      "sourceTitle": "Centesimus Annus",
+      "sourceTitle": "Laudato Si'",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 90,
       "text": "&nbsp;Francis, Apostolic Exhortation Evangelii Gaudium&nbsp;(24 November 2013), 189: AAS 105 (2013), 1099.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-exhortation",
+      "sourceTitle": "Evangelii Gaudium",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 91,
       "text": "&nbsp;Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 187.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3520,7 +3520,7 @@
       "number": 92,
       "text": "&nbsp;Cf. Leo XIII, Encyclical Letter Rerum Novarum&nbsp;(15 May 1891), 26: ASS 23 (1890-1891), 656.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Rerum Novarum",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3528,7 +3528,7 @@
       "number": 93,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Centesimus Annus&nbsp;(1 May 1991), 11: AAS 83 (1991), 806-807.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3536,7 +3536,7 @@
       "number": 94,
       "text": "&nbsp;Cf. ibid.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3544,7 +3544,7 @@
       "number": 95,
       "text": "&nbsp;Cf. ibid., 48: AAS 83 (1991), 852-854.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3568,7 +3568,7 @@
       "number": 98,
       "text": "&nbsp;Cf. Saint Paul VI, Encyclical Letter Populorum Progressio&nbsp;(26 March 1967), 17: AAS 59 (1967), 265-266.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Populorum Progressio",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3584,7 +3584,7 @@
       "number": 100,
       "text": "&nbsp;Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 58: AAS 101 (2009), 693-694.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3600,7 +3600,7 @@
       "number": 102,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis&nbsp;(30 December 1987), 38: AAS 80 (1988), 564.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Sollicitudo Rei Socialis",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3616,15 +3616,15 @@
       "number": 104,
       "text": "&nbsp;Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 48: AAS 101 (2009), 685.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 105,
       "text": "&nbsp;Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 25: AAS 58 (1966), 1045-1046.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "vatican-ii",
+      "sourceTitle": "Gaudium et Spes",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3632,15 +3632,15 @@
       "number": 106,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis&nbsp;(30 December 1987), 42: AAS 80 (1988), 572-574.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Sollicitudo Rei Socialis",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 107,
       "text": "&nbsp;Francis, Apostolic Exhortation Evangelii Gaudium&nbsp;(24 November 2013), 53: AAS 105 (2013), 1042.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-exhortation",
+      "sourceTitle": "Evangelii Gaudium",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3648,15 +3648,15 @@
       "number": 108,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 36-37: AAS 80 (1988), 561-564.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Sollicitudo Rei Socialis",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 109,
       "text": "&nbsp;Cf. Francis, Message for the 110th World Day of Migrants and Refugees&nbsp;(29 September 2024): AAS 116 (2024), 735.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Message for the 110th World Day of Migrants and Refugees",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3664,7 +3664,7 @@
       "number": 110,
       "text": "&nbsp;Saint Paul VI, Encyclical Letter Populorum Progressio&nbsp;(26 March 1967), 14: AAS 59 (1967), 264.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Populorum Progressio",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3672,7 +3672,7 @@
       "number": 111,
       "text": "&nbsp;Cf. ibid., 17: AAS 59 (1967), 265-266; Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 125-127: AAS 112 (2020), 1012-1013.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Populorum Progressio",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3680,39 +3680,39 @@
       "number": 112,
       "text": "&nbsp;Cf. Saint Paul VI, Encyclical Letter Populorum Progressio&nbsp;(26 March 1967), 14: AAS 59 (1967), 264; Benedict XVI, Address to the Diplomatic Corps accredited to the Holy See&nbsp;(8 January 2007): AAS 99 (2007), 73; Francis, Address to Participants of the 3rd Global Meeting of the Indigenous Peoples’ Forum of the International Fund for Agricultural Development&nbsp;(15 February 2017): AAS 109 (2017), 244-245.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Populorum Progressio",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 113,
       "text": "Final Document of the Second Session of the XVI Ordinary General Assembly of the Synod of Bishops (26 October 2024), 17.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "curial",
+      "sourceTitle": "Final Document of the Second Session of the XVI Ordinary General…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 114,
       "text": "&nbsp;Cf. ibid. , 11.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "curial",
+      "sourceTitle": "Final Document of the Second Session of the XVI Ordinary General…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 115,
       "text": "&nbsp;Cf. ibid. , 103-108.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "curial",
+      "sourceTitle": "Final Document of the Second Session of the XVI Ordinary General…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 116,
       "text": "&nbsp;Cf. ibid., 100-101.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "curial",
+      "sourceTitle": "Final Document of the Second Session of the XVI Ordinary General…",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3727,8 +3727,8 @@
     {
       "number": 118,
       "text": "&nbsp;Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 53.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Dives in Misericordia",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3736,71 +3736,71 @@
       "number": 119,
       "text": "&nbsp;Cf. Francis, Encyclical Letter Laudato Si ’, (24 May 2015), 106-109: AAS 107 (2015), 889-891.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Laudato Si'",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 120,
       "text": "&nbsp;R. Guardini, Das Ende der Neuzeit, Würzburg 1951, 89.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "reference",
+      "sourceTitle": "Das Ende der Neuzeit",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 121,
       "text": "&nbsp;Saint Paul VI, Address on the occasion of the 25th Anniversary of the FAO&nbsp;(16 November 1970): AAS 62 (1970), 833.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Address on the occasion of the 25th Anniversary of the FAO",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 122,
       "text": "&nbsp;Cf. Francis, Address to the Council for an Inclusive Capitalism (11 November 2019): L’Osservatore Romano, 11-12 November 2019, 8.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Address to the Council for an Inclusive Capitalism",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 123,
       "text": "&nbsp;Cf. Dicastery for the Doctrine of the Faith – Dicastery for Culture and Education, Note Antiqua et Nova&nbsp;(14 January 2025): AAS 117 (2025), 159-210; Francis, Message for the 57th World Day of Peace&nbsp;(8 December 2023): AAS 116 (2024), 54-64; Francis, Message for the 58th World Day of Social Communications&nbsp;(24 January 2024): AAS 116 (2024), 261-266; Francis, Address to the G7 Session on Artificial Intelligence: “An exciting and fearsome tool”&nbsp;(14 June 2024): AAS 116 (2024), 866-875; International Theological Commission, Quo vadis, humanitas? Thinking about Christian anthropology in the face of some scenarios on the future of humanity (9 February 2026); Message for the 60th World Day of Social Communications&nbsp;(24 January 2026): L’Osservatore Romano, 24 January 2026, 2-3.",
-      "category": "papal-exhortation",
-      "sourceTitle": "Evangelii Gaudium",
+      "category": "curial",
+      "sourceTitle": "Antiqua et Nova",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 124,
       "text": "&nbsp;Cf. Dicastery for the Doctrine of the Faith – Dicastery for Culture and Education, Note Antiqua et Nova&nbsp;(14 January 2025), 96: AAS 117 (2025), 201.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "curial",
+      "sourceTitle": "Antiqua et Nova",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 125,
       "text": "&nbsp;Francis, Address to Participants at the Meeting of the “Minerva Dialogues” promoted by the Dicastery for Culture and Education&nbsp;(27 March 2023): AAS 115 (2023), 465.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "curial",
+      "sourceTitle": "Address to Participants at the Meeting of the \"Minerva Dialogues\"…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 126,
       "text": "&nbsp;Cf. Dicastery for the Doctrine of the Faith – Dicastery for Culture and Education, Note Antiqua et Nova&nbsp;(14 January 2025), 41: AAS 117 (2025), 178.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Evangelium Vitae",
+      "category": "curial",
+      "sourceTitle": "Antiqua et Nova",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 127,
       "text": "&nbsp;Cf. ibid., 44-45: AAS 117 (2025), 179-180.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Evangelium Vitae",
+      "category": "curial",
+      "sourceTitle": "Antiqua et Nova",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3808,79 +3808,79 @@
       "number": 128,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Centesimus Annus&nbsp;(1 May 1991), 40: AAS 83 (1991), 843.",
       "category": "papal-encyclical",
-      "sourceTitle": "Evangelium Vitae",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 129,
       "text": "&nbsp;Cf. International Theological Commission, Quo vadis, humanitas? Thinking about Christian anthropology in the face of some scenarios on the future of humanity (9 February 2026), 63.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Evangelium Vitae",
+      "category": "curial",
+      "sourceTitle": "Quo vadis, humanitas? Thinking about Christian anthropology in the…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 130,
       "text": "&nbsp;Cf. Saint Paul VI, Discourse on the occasion of the 25th anniversary of the FAO (16 November 1970): AAS 62 (1970), 833.",
-      "category": "vatican-ii",
-      "sourceTitle": "Gaudium et Spes",
+      "category": "papal-address",
+      "sourceTitle": "Discourse on the occasion of the 25th anniversary of the FAO",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 131,
       "text": "&nbsp;International Theological Commission, Quo vadis, humanitas? Thinking about Christian anthropology in the face of some scenarios on the future of humanity (9 February 2026), 3.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Evangelium Vitae",
+      "category": "curial",
+      "sourceTitle": "Quo vadis, humanitas? Thinking about Christian anthropology in the…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 132,
       "text": "&nbsp;“If we devalue the heart, we also devalue what it means to speak from the heart, to act with the heart, to cultivate and heal the heart. If we fail to appreciate the specificity of the heart, we miss the messages that the mind alone cannot communicate; we miss out on the richness of our encounters with others; we miss out on poetry. We also lose track of history and our own past, since our real personal history is built with the heart. At the end of our lives, that alone will matter.” Francis, Encyclical Letter Dilexit Nos&nbsp;(24 October 2024), 11: AAS 116 (2024), 1372.",
-      "category": "vatican-ii",
-      "sourceTitle": "Gaudium et Spes",
+      "category": "papal-encyclical",
+      "sourceTitle": "Dilexit Nos",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 133,
       "text": "&nbsp;V. Frankl, Man’s Search for Meaning. An Introduction to Logotherapy, Boston 1963, 213.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "reference",
+      "sourceTitle": "Man's Search for Meaning. An Introduction to Logotherapy",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 134,
       "text": "&nbsp;Saint Thomas Aquinas, Summa Theologiae, I-II, q. 112, a. 1, co; q. 114, a, 5, co.: ed. Leonina, VII, Rome 1892, 323 and 349.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "church-doctor",
+      "sourceTitle": "Summa Theologiae",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 135,
       "text": "&nbsp;Cf. ibid., q. 114, a. 1, co.: ed. Leonina, VII, 344.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "church-doctor",
+      "sourceTitle": "Summa Theologiae",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 136,
       "text": "&nbsp;Cf. Saint Thomas Aquinas, Super Boetium de Trinitate, q. 1, a. 2, ad 3: ed. Leonina, L, Rome 1992, 96; Summa Theologiae, I, q. 7, a. 1, ad 3: ed. Leonina, IV, Rome 1888, 72.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "church-doctor",
+      "sourceTitle": "Super Boetium de Trinitate",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 137,
       "text": "&nbsp;Francis, Apostolic Exhortation Evangelii Gaudium, (24 November 2013), 8: AAS 105 (2013), 1022.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-exhortation",
+      "sourceTitle": "Evangelii Gaudium",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3888,15 +3888,15 @@
       "number": 138,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Redemptor Hominis (4 March 1979), 15: AAS 71 (1979), 286-287.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Redemptor Hominis",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 139,
       "text": "&nbsp;Saint Augustine, De civitate Dei, XIV, 28: CCSL 48, Turnhout 1955, 451.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "church-father",
+      "sourceTitle": "De civitate Dei",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3904,7 +3904,7 @@
       "number": 140,
       "text": "&nbsp;Benedict XVI, Encyclical Letter Caritas in Veritate&nbsp;(29 June 2009), 34: AAS 101 (2009), 668-669.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3912,7 +3912,7 @@
       "number": 141,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Veritatis Splendor&nbsp;(6 August 1993), 32: AAS 85 (1993), 1159.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Veritatis Splendor",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3920,63 +3920,63 @@
       "number": 142,
       "text": "&nbsp;Francis, Encyclical Letter Fratelli Tutti&nbsp;(3 October 2020), 207: AAS 112 (2020), 1043.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 143,
       "text": "&nbsp;H. Arendt, The Origins of Totalitarianism, III , New York 1962, 474 .",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "reference",
+      "sourceTitle": "The Origins of Totalitarianism, III",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 144,
       "text": "Address to Representatives of the Media&nbsp;(12 May 2025): AAS 117 (2025), 681-682.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to Representatives of the Media",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 145,
       "text": "&nbsp;Benedict XVI, Message for the 47th World Day of Social Communications&nbsp;(24 January 2013): AAS 105 (2013), 183.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Message for the 47th World Day of Social Communications",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 146,
       "text": "&nbsp;Francis, Address on the occasion of the Conferral of the rank of Knight and Dame of the Grand Cross of the Pian Order to Mr Philip Pullella and Ms Valentina Alazraki (13 November 2021): L’Osservatore Romano, 13 November 2021, 12.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address on the occasion of the Conferral of the rank of Knight and…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 147,
       "text": "&nbsp;Cf. Plato, Letter VII, 344b-c: ed. Souilhé, XIII/1, Paris 1931 ( CUF, Série grecque 63), 54.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "reference",
+      "sourceTitle": "Letter VII, 344b-c",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 148,
       "text": "&nbsp;Cf. Address to the Participants in the Conference “The Dignity of Children and Adolescents in the Age of Artificial Intelligence”&nbsp;(13 November 2025): L’Osservatore Romano, 13 November 2025, 3.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to the Participants in the Conference \"The Dignity of…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 149,
       "text": "&nbsp;Cf. Address to the members of the Advisory Board of the RCS Academy (7 November 2025): L’Osservatore Romano 7 November 2025, 4.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to the members of the Advisory Board of the RCS Academy",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3984,7 +3984,7 @@
       "number": 150,
       "text": "&nbsp;Saint John Paul II, Encyclical Letter Laborem Exercens&nbsp;(14 September 1981), 3: AAS 73 (1981), 584.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Laborem Exercens",
       "bibleRef": null,
       "bibleText": null
     },
@@ -3999,8 +3999,8 @@
     {
       "number": 152,
       "text": "&nbsp;Dicastery for the Doctrine of the Faith — Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025), 67: AAS 117 (2025), 188-189.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Antiqua et Nova",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4008,7 +4008,7 @@
       "number": 153,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Laborem Exercens, (14 September 1981), 18: AAS 73 (1981), 622-625.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Laborem Exercens",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4024,15 +4024,15 @@
       "number": 155,
       "text": "&nbsp;Cf. Benedict XVI, Encyclical Letter Caritas in Veritate&nbsp;(29 June 2009), 32: AAS 101 (2009), 666.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 156,
       "text": "&nbsp;Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 268.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4040,7 +4040,7 @@
       "number": 157,
       "text": "&nbsp;Cf. Benedict XVI, Encyclical Letter Caritas in Veritate&nbsp;(29 June 2009), 64: AAS 101 (2009), 698.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4064,39 +4064,39 @@
       "number": 160,
       "text": "&nbsp;Cf. Francis, Encyclical Letter Fratelli Tutti&nbsp;(3 October 2020), 108: AAS 112 (2020), 1006.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 161,
       "text": "&nbsp;Cf. Dicastery for the Doctrine of the Faith — Dicastery for the Promotion of Integral Human Development, Oeconomicae et Pecuniariae Quaestiones. Considerations for an Ethical Discernment Regarding some Aspects of the Present Economic-Financial System&nbsp;(6 January 2018), 6: AAS 110 (2018), 772.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Oeconomicae et Pecuniariae Quaestiones",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 162,
       "text": "&nbsp;Francis, Greeting to the staff of the International Fund for Agricultural Development (IFAD)&nbsp;(14 February 2019): AAS 111 (2019), 309. Cfr. Benedict XVI, Encyclical Letter Caritas in Veritate&nbsp;(29 June 2009), 22: AAS 101 (2009), 657.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Greeting to the staff of the International Fund for Agricultural…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 163,
       "text": "&nbsp;Cf . ibid., 36: AAS 101 (2009), 671-672.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Greeting to the staff of the International Fund for Agricultural…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 164,
       "text": "&nbsp;Cf. Francis, Apostolic Exhortation Evangelii Gaudium&nbsp;(24 November 2013), 204: AAS 105 (2013), 1105-1106.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-exhortation",
+      "sourceTitle": "Evangelii Gaudium",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4104,79 +4104,79 @@
       "number": 165,
       "text": "&nbsp;Cf. Saint Paul VI, Encyclical Letter Populorum Progressio&nbsp;(26 March 1967), 87: AAS 59 (1967), 299.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Populorum Progressio",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 166,
       "text": "&nbsp;Cf. Saint John Paul II, Encyclical Letter Centesimus Annus&nbsp;(1 May 1991), 39: AAS 83 (1991), 841.",
-      "category": "leo-xiv",
-      "sourceTitle": "Video Message to TED Conference",
+      "category": "papal-encyclical",
+      "sourceTitle": "Centesimus Annus",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 167,
       "text": "&nbsp;Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 211.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 168,
       "text": "&nbsp;Cf. Saint John Paul II, Letter to Families Gratissimam Sane&nbsp;(2 February 1994), 17: AAS 86 (1994), 903-906.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "apostolic-letter",
+      "sourceTitle": "Gratissimam Sane",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 169,
       "text": "&nbsp;Cf. United States Conference of Catholic Bishops, Sons and Daughters of the Light: A Pastoral Plan for Ministry with Young Adults (12 November 1996), Washington D.C., 1996, I, 3.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "reference",
+      "sourceTitle": "Sons and Daughters of the Light: A Pastoral Plan for Ministry with…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 170,
       "text": "&nbsp;Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 290.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 171,
       "text": "&nbsp;Cf. ibid., 214.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Compendium of the Social Doctrine of the Church",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 172,
       "text": "&nbsp;Cf. Francis, Message for the Celebration of the 48th World Day of Youth for Peace&nbsp;(8 December 2014), 4: AAS&nbsp;107 (2015), 70-71.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Message for the Celebration of the 48th World Day of Youth for Peace",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 173,
       "text": "&nbsp;Cf. International Theological Commission, Memory and Reconciliation the Church and the Faults of the Past ,&nbsp;Vatican City 2000, 5.3.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Memory and Reconciliation the Church and the Faults of the Past",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 174,
       "text": "&nbsp;As in the Papal Bulls Sicut Dudum (13 January 1435) and Etsi Suscepti (9 January 1442) of Eugenius IV, and in the Papal Bulls Dum Diversas (18 June 1452) and Romanus Pontifex (8 January 1455) of Nicholas V. Political and, at times, even economic needs overcame the demands of the Gospel. The need for evangelization was frequently compromised or at least misunderstood with regard to the needs of worldly powers, thus relativizing the problematic incompatibility of slavery with the Christian conscience.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "other",
+      "sourceTitle": "Sicut Dudum",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4184,23 +4184,23 @@
       "number": 175,
       "text": "&nbsp;Cf. Leo XIII, Encyclical Letter In Plurimis&nbsp;(5 May 1888), Acta Leonis XIII, VIII, Rome, 1889, 169-192. Consider that, as late as 1866, the Holy Office distinguished between the immoral and moral aspects of slavery, without fully condemning it: Instruction of the Holy Office on various doubts of Monsignor Massaia, Vicar Apostolic in the country of the Galla, April 1866, response to question no. 15.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "In Plurimis",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 176,
       "text": "&nbsp;Cf. Saint John Paul II, Bull Incarnationis Mysterium (29 November 1998), 11: AAS 91 (1999), 139-141.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "apostolic-letter",
+      "sourceTitle": "Incarnationis Mysterium",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 177,
       "text": "&nbsp;Cf. Saint Paul VI, Regina Caeli (17 May 1970): Insegnamenti di Paolo VI, vol. VIII, 506.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Regina Caeli",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4208,31 +4208,31 @@
       "number": 178,
       "text": "&nbsp;Cf. Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 183: AAS 112 (2020), 1033-1034.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 179,
       "text": "&nbsp;Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 26: AAS 58 (1966), 1046-1047.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "vatican-ii",
+      "sourceTitle": "Gaudium et Spes",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 180,
       "text": "&nbsp;Saint Paul VI, Address to the 20th General Assembly of the United Nations&nbsp;(4 October 1965): AAS 57 (1965), 881.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to the 20th General Assembly of the United Nations",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 181,
       "text": "&nbsp;United Nations, United Nations Charter, San Francisco (26 June 1945), Preamble.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "reference",
+      "sourceTitle": "United Nations Charter",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4240,87 +4240,87 @@
       "number": 182,
       "text": "&nbsp;Cf. Francis , Encyclical Letter Fratelli Tutti (3 October 2020), 258: AAS 112 (2020), 1061: “In recent decades, every single war has been ostensibly ‘justified.’ The Catechism of the Catholic Church&nbsp;speaks of the possibility of legitimate defense by means of military force, which involves demonstrating that certain ‘rigorous conditions of moral legitimacy’ have been met. Yet it is easy to fall into an overly broad interpretation of this potential right. In this way, some would also wrongly justify even ‘preventive’ attacks or acts of war that can hardly avoid entailing ‘evils and disorders graver than the evil to be eliminated.’”",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 183,
       "text": "&nbsp;Cf. Dicastery for the Doctrine of the Faith — Dicastery for Culture and Education, Note Antiqua et Nova&nbsp;(14 January 2025), 99: AAS 117 (2025), 202-203.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Antiqua et Nova",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 184,
       "text": "&nbsp;Cf.&nbsp; ibid., 103: AAS 117 (2025), 204.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "curial",
+      "sourceTitle": "Antiqua et Nova",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 185,
       "text": "&nbsp;Cf. Address to the Participants in the Plenary Session of the “Reunion of Aid Agencies for the Oriental Churches&nbsp;(ROACO)” (26 June 2025): AAS 117 (2025), 847-849.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to the Participants in the Plenary Session of the \"Reunion of…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 186,
       "text": "&nbsp;Cf. Francis, Message for the 53rd World Day of Peace&nbsp;(8 December 2019): AAS 112 (2020), 54-61.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Message for the 53rd World Day of Peace",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 187,
       "text": "&nbsp;J.R.R. Tolkien, The Lord of the Rings. The Return of the King, Part III, Book Five, Chapter IX, New York 1965, 190.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "reference",
+      "sourceTitle": "The Lord of the Rings. The Return of the King, Part III, Book Five,…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 188,
       "text": "Address to Representatives of the Media, (12 May 2025): AAS 117 (2025), 682.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to Representatives of the Media",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 189,
       "text": "Ibid.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to Representatives of the Media",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 190,
       "text": "&nbsp;Saint John Paul II, Message for the 31st World Day of Peace, (1 January 1998), 1: AAS 90 (1988), 147.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Message for the 31st World Day of Peace",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 191,
       "text": "&nbsp;Saint Augustine, Enarrationes in Psalmos,&nbsp;84, 12: CCSL 39, Turnhout 1956, 1172-1173.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "church-father",
+      "sourceTitle": "Enarrationes in Psalmos",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 192,
       "text": "&nbsp;Cf. Francis, Encyclical Letter Dilexit Nos (24 October 2024), 22: AAS 116 (2024), 1375-1376.",
-      "category": "leo-xiv",
-      "sourceTitle": "Message to UN General Assembly",
+      "category": "papal-encyclical",
+      "sourceTitle": "Dilexit Nos",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4328,7 +4328,7 @@
       "number": 193,
       "text": "&nbsp;Francis, Encyclical Letter Fratelli Tutti&nbsp;(3 October 2020), 115: AAS 112 (2020), 1008-1009.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4336,39 +4336,39 @@
       "number": 194,
       "text": "&nbsp;Cf. ibid., 261: AAS 112 (2020), 1062.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 195,
       "text": "&nbsp;Cf. Saint Paul VI, Address to the 20th General Assembly of the United Nations (4 October 1965): AAS 57 (1965), 878-879.",
-      "category": "leo-xiv",
-      "sourceTitle": "Address to Pontifical Academy of Sciences",
+      "category": "papal-address",
+      "sourceTitle": "Address to the 20th General Assembly of the United Nations",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 196,
       "text": "&nbsp;Cf. Pius XII, Radio Message A Grave Hour (24 August 1939): AAS 31 (1939), 334.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "A Grave Hour",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 197,
       "text": "Giorgio La Pira, Riflessioni sul Concilio. Address of Professor Giorgio La Pira, Mayor of Florence, to the “Guides de France”(Rome, 4 September 1962), Florence 1962, 6.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Riflessioni sul Concilio",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 198,
       "text": "Address to Participants in the Jubilee of Oriental Churches (14 May 2025): AAS 117 (2025), 686.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Address to Participants in the Jubilee of Oriental Churches",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4376,111 +4376,111 @@
       "number": 199,
       "text": "&nbsp;Cf. Francis, Encyclical Letter Fratelli Tutti&nbsp;(3 October 2020), 271: AAS 112 (2020), 1066.",
       "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "sourceTitle": "Fratelli Tutti",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 200,
       "text": "&nbsp;Cf. Francis, Appeal for Peace at Assisi for the World Day of Prayer for Peace “Thirst for Peace: Faiths and Cultures in Dialogue” (20 September 2016): AAS 108 (2016), 1124.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Laudato Si'",
+      "category": "papal-address",
+      "sourceTitle": "Appeal for Peace at Assisi for the World Day of Prayer for Peace…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 201,
       "text": "&nbsp;Francis, Address to Members of the Diplomatic Corps accredited to the Holy See&nbsp;(9 January 2025): AAS 117 (2025), 110.",
-      "category": "leo-xiv",
-      "sourceTitle": "Address to Diplomatic Corps",
+      "category": "papal-address",
+      "sourceTitle": "Address to Members of the Diplomatic Corps accredited to the Holy See",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 202,
       "text": "&nbsp;Cf. Francis, Address to the Participants in the 38th Conference of the FAO&nbsp;(20 June 2013): AAS 105 (2013), 616-617.",
-      "category": "vatican-ii",
-      "sourceTitle": "Gaudium et Spes",
+      "category": "papal-address",
+      "sourceTitle": "Address to the Participants in the 38th Conference of the FAO",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 203,
       "text": "First “Urbi et Orbi” Blessing (8 May 2025): AAS 117 (2025), 660.",
-      "category": "vatican-ii",
-      "sourceTitle": "Gaudium et Spes",
+      "category": "papal-address",
+      "sourceTitle": "First \"Urbi et Orbi\" Blessing",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 204,
       "text": "Ibid.",
-      "category": "vatican-ii",
-      "sourceTitle": "Gaudium et Spes",
+      "category": "papal-address",
+      "sourceTitle": "First \"Urbi et Orbi\" Blessing",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 205,
       "text": "Cf. Homily at First Vespers on the Solemnity of Mary the Most Holy Mother of God&nbsp;(31 December 2025): L’Osservatore Romano, 2 January 2026, 1-2.",
-      "category": "vatican-ii",
-      "sourceTitle": "Gaudium et Spes",
+      "category": "papal-address",
+      "sourceTitle": "Homily at First Vespers on the Solemnity of Mary the Most Holy Mother…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 206,
       "text": "&nbsp;Cf. Homily of the Mass during the Day&nbsp;(25 December 2025): L’Osservatore Romano, 27 December 2025, 3.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Centesimus Annus",
+      "category": "papal-address",
+      "sourceTitle": "Homily of the Mass during the Day",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 207,
       "text": "&nbsp;Cf. ibid.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Centesimus Annus",
+      "category": "papal-address",
+      "sourceTitle": "Homily of the Mass during the Day",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 208,
       "text": "&nbsp;Cf. Angelus on the Solemnity of the Epiphany&nbsp;(6 January 2026): L’Osservatore Romano, 7 January 2026, 3.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Centesimus Annus",
+      "category": "papal-address",
+      "sourceTitle": "Angelus on the Solemnity of the Epiphany",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 209,
       "text": "&nbsp;Cf. Homily of the Mass during the Night&nbsp;(24 December 2025): L’Osservatore Romano, 27 December 2025, 2.",
-      "category": "papal-exhortation",
-      "sourceTitle": "Evangelii Gaudium",
+      "category": "papal-address",
+      "sourceTitle": "Homily of the Mass during the Night",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 210,
       "text": "P. de Bérulle, Discours de l’état et des grandeurs de Jésus, Discours IV, Unité de Dieu en l’incarnation: Œuvres complètes, Paris 1856, col. 218.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "reference",
+      "sourceTitle": "Discours de l'état et des grandeurs de Jésus, Discours IV, Unité de…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 211,
       "text": "&nbsp;Ibid .",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "reference",
+      "sourceTitle": "Discours de l'état et des grandeurs de Jésus, Discours IV, Unité de…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 212,
       "text": "&nbsp;Cf. Address to the Conference “Artificial Intelligence and Care of Our Common Home”&nbsp;(5 December 2025): L’Osservatore Romano, 5 December 2025, 2.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Address to the Conference \"Artificial Intelligence and Care of Our…",
       "bibleRef": null,
       "bibleText": null
     },
@@ -4488,95 +4488,95 @@
       "number": 213,
       "text": "&nbsp;Benedict XVI, Encyclical Letter Deus Caritas Est&nbsp;(25 December 2005), 14: AAS 98 (2006), 228.",
       "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "sourceTitle": "Deus Caritas Est",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 214,
       "text": "&nbsp;Saint Augustine, Sermons, 272: In die Pentecostes ad infantes de sacramento: PL 38, Paris 1865, col. 1247.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "church-father",
+      "sourceTitle": "Sermons, 272: In die Pentecostes ad infantes de sacramento",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 215,
       "text": "&nbsp;Benedict XVI, Homily at the Mass of the Lord’s Supper&nbsp;(21 April 2011): AAS 103 (2011), 321.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Homily at the Mass of the Lord's Supper",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 216,
       "text": "Address to the Roma Curia for the Exchange of Christmas Greetings&nbsp;(22 December 2025): L’Osservatore Romano, 22 December 2025, 6-7.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Address to the Roma Curia for the Exchange of Christmas Greetings",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 217,
       "text": "&nbsp;Cf. above, nos. 11-14.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "other",
+      "sourceTitle": null,
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 218,
       "text": "&nbsp;Cf. Address to the Conference “The Dignity of Children and Adolescents in the Age of Artificial Intelligence”&nbsp;(13 November 2025): L’Osservatore Romano, 13 November 2025, 3.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Address to the Conference \"The Dignity of Children and Adolescents in…",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 219,
       "text": "&nbsp;Cf. Benedict XVI, Encyclical Letter Caritas in Veritate&nbsp;(29 June 2009),&nbsp;34: AAS 101 (2009), 668-670.",
-      "category": "leo-xiv",
-      "sourceTitle": "Homily at Mass",
+      "category": "papal-encyclical",
+      "sourceTitle": "Caritas in Veritate",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 220,
       "text": "&nbsp;Francis, Apostolic Exhortation Laudate Deum&nbsp;(4 October 2023), 67: AAS 115 (2023), 1059.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-exhortation",
+      "sourceTitle": "Laudate Deum",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 221,
       "text": "&nbsp;Cf. Angelus on the Solemnity of the Epiphany&nbsp;(6 January 2026): L’Osservatore Romano, 7 January 2026, 3.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Angelus on the Solemnity of the Epiphany",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 222,
       "text": "&nbsp;Benedict XVI, General Audience&nbsp;(15 February 2006): L’Osservatore Romano, 16 February 2006, 4.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "General Audience",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 223,
       "text": "Meditation on the occasion of the Prayer Vigil and Rosary for Peace&nbsp;(11 October 2025): L’Osservatore Romano, 13 October 2025, 2.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Fratelli Tutti",
+      "category": "papal-address",
+      "sourceTitle": "Meditation on the occasion of the Prayer Vigil and Rosary for Peace",
       "bibleRef": null,
       "bibleText": null
     },
     {
       "number": 224,
       "text": "&nbsp;Saint Paul VI, Homily at the Marian Shrine of Our Lady of Bonaria, (24 April 1970): AAS 62 (1970), 301.",
-      "category": "papal-encyclical",
-      "sourceTitle": "Humanae Vitae",
+      "category": "papal-address",
+      "sourceTitle": "Homily at the Marian Shrine of Our Lady of Bonaria",
       "bibleRef": null,
       "bibleText": null
     }
@@ -4594,7 +4594,8 @@
         1
       ],
       "essentialityScore": 0.98,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Opening thesis: humanity's pivotal choice — build a new Tower of Babel or the city where God and humanity dwell"
     },
     {
       "id": "p-002",
@@ -4608,8 +4609,9 @@
         2,
         3
       ],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Founded on Christ; the Church's vocation to dialogue with all people of the age"
     },
     {
       "id": "p-003",
@@ -4622,8 +4624,9 @@
       "footnoteMarkers": [
         4
       ],
-      "essentialityScore": 0.88,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Rerum Novarum at 135; Social Doctrine as a living legacy of wisdom, not inert concepts"
     },
     {
       "id": "p-004",
@@ -4637,8 +4640,9 @@
         5,
         6
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.92,
+      "contextNote": null,
+      "scoreReason": "The res novae of our time: digitalization/AI/robotics; technology not antagonistic but a new situation of unprecedented power"
     },
     {
       "id": "p-005",
@@ -4651,8 +4655,9 @@
       "footnoteMarkers": [
         7
       ],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Power now largely private and transnational; regulation needed but not sufficient"
     },
     {
       "id": "p-006",
@@ -4664,7 +4669,8 @@
       "sectionTitle": "The res novae of our time",
       "footnoteMarkers": [],
       "essentialityScore": 0.68,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Call for shared discernment in a 'change of era'; the orienting questions: where are we going?"
     },
     {
       "id": "p-007",
@@ -4675,8 +4681,9 @@
       "sectionId": "two-biblical-images",
       "sectionTitle": "Two biblical images",
       "footnoteMarkers": [],
-      "essentialityScore": 0.9,
-      "contextNote": null
+      "essentialityScore": 0.93,
+      "contextNote": null,
+      "scoreReason": "First biblical image: the Tower of Babel — grandeur without God, uniformity over communion, dispersion"
     },
     {
       "id": "p-008",
@@ -4687,8 +4694,9 @@
       "sectionId": "two-biblical-images",
       "sectionTitle": "Two biblical images",
       "footnoteMarkers": [],
-      "essentialityScore": 0.9,
-      "contextNote": null
+      "essentialityScore": 0.93,
+      "contextNote": null,
+      "scoreReason": "Second biblical image: Nehemiah rebuilding Jerusalem through shared responsibility, God at the center"
     },
     {
       "id": "p-009",
@@ -4700,7 +4708,8 @@
       "sectionTitle": "Two biblical images",
       "footnoteMarkers": [],
       "essentialityScore": 0.97,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Pivotal claim: technology is never neutral; the real choice is Babel vs Jerusalem"
     },
     {
       "id": "p-010",
@@ -4711,8 +4720,9 @@
       "sectionId": "two-biblical-images",
       "sectionTitle": "Two biblical images",
       "footnoteMarkers": [],
-      "essentialityScore": 0.92,
-      "contextNote": null
+      "essentialityScore": 0.95,
+      "contextNote": null,
+      "scoreReason": "The 'Babel syndrome' vs the 'way of Nehemiah'; pluralism becoming communion through synodality"
     },
     {
       "id": "p-011",
@@ -4725,8 +4735,9 @@
       "footnoteMarkers": [
         8
       ],
-      "essentialityScore": 0.85,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "First condition for the common good: building on a firm relationship with God (Augustine's restless heart)"
     },
     {
       "id": "p-012",
@@ -4737,8 +4748,9 @@
       "sectionId": "building-for-common-good",
       "sectionTitle": "Building for the common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.85,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Second condition: accepting human limits and weakness rather than 'upgrading' them away"
     },
     {
       "id": "p-013",
@@ -4749,8 +4761,9 @@
       "sectionId": "building-for-common-good",
       "sectionTitle": "Building for the common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.85,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Third condition: shared responsibility and subsidiarity — each given a section of the wall"
     },
     {
       "id": "p-014",
@@ -4761,8 +4774,9 @@
       "sectionId": "building-for-common-good",
       "sectionTitle": "Building for the common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.82,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Fourth condition: an evangelical language; concrete standards for discernment"
     },
     {
       "id": "p-015",
@@ -4774,7 +4788,8 @@
       "sectionTitle": "Remaining human",
       "footnoteMarkers": [],
       "essentialityScore": 0.95,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Core duty of the age: to remain profoundly human; the grandeur no machine can replace"
     },
     {
       "id": "p-016",
@@ -4786,7 +4801,8 @@
       "sectionTitle": "Remaining human",
       "footnoteMarkers": [],
       "essentialityScore": 0.94,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Closing appeal: get our hands dirty on the 'construction site'; builders of communion, not architects of Babel"
     },
     {
       "id": "p-017",
@@ -4797,8 +4813,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Chapter 1 intro: the dynamic character of Social Doctrine; AI challenges its categories from within"
     },
     {
       "id": "p-018",
@@ -4809,8 +4826,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.45,
+      "contextNote": null,
+      "scoreReason": "Need to clarify how the Church exists in history before treating specific issues"
     },
     {
       "id": "p-019",
@@ -4823,8 +4841,9 @@
       "footnoteMarkers": [
         9
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "The Church as a sign of unity, with a historical mission and responsibility for social relations"
     },
     {
       "id": "p-020",
@@ -4837,8 +4856,9 @@
       "footnoteMarkers": [
         10
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "The autonomy of earthly realities (Gaudium et Spes); the Church interprets without overpowering"
     },
     {
       "id": "p-021",
@@ -4849,8 +4869,9 @@
       "sectionId": "church-journeying",
       "sectionTitle": "A Church journeying through human history",
       "footnoteMarkers": [],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Distinction between ecclesial and political communities; the Good Samaritan model"
     },
     {
       "id": "p-022",
@@ -4863,8 +4884,9 @@
       "footnoteMarkers": [
         11
       ],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Listening to 'the many voices' as spiritual discernment, not mere sociology"
     },
     {
       "id": "p-023",
@@ -4879,8 +4901,9 @@
         13,
         14
       ],
-      "essentialityScore": 0.6,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Dialogue with philosophy and the sciences strengthens, not diminishes, the Gospel"
     },
     {
       "id": "p-024",
@@ -4893,8 +4916,9 @@
       "footnoteMarkers": [
         15
       ],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Social Doctrine is not technical solutions but principles for interpreting events"
     },
     {
       "id": "p-025",
@@ -4910,8 +4934,9 @@
         18,
         19
       ],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Truth as a gift to share, not a possession to monopolize; 'time is greater than space'"
     },
     {
       "id": "p-026",
@@ -4926,7 +4951,8 @@
         21
       ],
       "essentialityScore": 0.45,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Catholicity: the one Gospel truth reflected from many angles (the polyhedron)"
     },
     {
       "id": "p-027",
@@ -4939,8 +4965,9 @@
       "footnoteMarkers": [
         22
       ],
-      "essentialityScore": 0.7,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Social Doctrine as a theology of communion in history — dialogue, memory, prophecy"
     },
     {
       "id": "p-028",
@@ -4952,7 +4979,8 @@
       "sectionTitle": "The development of Social Doctrine from Leo XIII to the present",
       "footnoteMarkers": [],
       "essentialityScore": 0.42,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Transition into the historical development of the Magisterium since Rerum Novarum"
     },
     {
       "id": "p-029",
@@ -4966,8 +4994,9 @@
         23,
         24
       ],
-      "essentialityScore": 0.38,
-      "contextNote": null
+      "essentialityScore": 0.45,
+      "contextNote": null,
+      "scoreReason": "Social Doctrine is not a modern invention but a structured tradition; the 'lasting paradigm'"
     },
     {
       "id": "p-030",
@@ -4980,8 +5009,9 @@
       "footnoteMarkers": [
         25
       ],
-      "essentialityScore": 0.75,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "Rerum Novarum as milestone: dignity of work, fair wage, person over capital"
     },
     {
       "id": "p-031",
@@ -4992,8 +5022,9 @@
       "sectionId": "development-social-doctrine",
       "sectionTitle": "The development of Social Doctrine from Leo XIII to the present",
       "footnoteMarkers": [],
-      "essentialityScore": 0.35,
-      "contextNote": null
+      "essentialityScore": 0.42,
+      "contextNote": null,
+      "scoreReason": "Quadragesimo Anno: economic order, the principle of subsidiarity, critique of totalitarianism"
     },
     {
       "id": "p-032",
@@ -5006,8 +5037,9 @@
       "footnoteMarkers": [
         26
       ],
-      "essentialityScore": 0.32,
-      "contextNote": null
+      "essentialityScore": 0.4,
+      "contextNote": null,
+      "scoreReason": "Pius XII: natural law, intermediary bodies, law over force in the international order"
     },
     {
       "id": "p-033",
@@ -5021,8 +5053,9 @@
         27,
         28
       ],
-      "essentialityScore": 0.28,
-      "contextNote": null
+      "essentialityScore": 0.45,
+      "contextNote": null,
+      "scoreReason": "John XXIII (Mater et Magistra, Pacem in Terris): global social question and the language of rights"
     },
     {
       "id": "p-034",
@@ -5036,8 +5069,9 @@
         29,
         30
       ],
-      "essentialityScore": 0.3,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Vatican II / Gaudium et Spes: a Church close to humanity; dialogue as mission, not tactic; Dignitatis Humanae"
     },
     {
       "id": "p-035",
@@ -5051,8 +5085,9 @@
         31,
         32
       ],
-      "essentialityScore": 0.4,
-      "contextNote": null
+      "essentialityScore": 0.48,
+      "contextNote": null,
+      "scoreReason": "Paul VI / Populorum Progressio: integral development as 'the new name for peace'"
     },
     {
       "id": "p-036",
@@ -5067,7 +5102,8 @@
         34
       ],
       "essentialityScore": 0.42,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Octogesima Adveniens: the Gospel is not outdated; 'structures of sin'"
     },
     {
       "id": "p-037",
@@ -5081,8 +5117,9 @@
         35,
         36
       ],
-      "essentialityScore": 0.38,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "John Paul II / Laborem Exercens: work as a fundamental good and key to the social question"
     },
     {
       "id": "p-038",
@@ -5097,8 +5134,9 @@
         38,
         39
       ],
-      "essentialityScore": 0.32,
-      "contextNote": null
+      "essentialityScore": 0.42,
+      "contextNote": null,
+      "scoreReason": "Sollicitudo Rei Socialis: underdevelopment, unjust structures, solidarity as shared responsibility"
     },
     {
       "id": "p-039",
@@ -5112,8 +5150,9 @@
         40,
         41
       ],
-      "essentialityScore": 0.35,
-      "contextNote": null
+      "essentialityScore": 0.48,
+      "contextNote": null,
+      "scoreReason": "Centesimus Annus: democracy and the market subordinate to the moral law and solidarity"
     },
     {
       "id": "p-040",
@@ -5130,7 +5169,8 @@
         45
       ],
       "essentialityScore": 0.45,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Caritas in Veritate: development that is inclusive and sustainable; states' reduced power"
     },
     {
       "id": "p-041",
@@ -5144,7 +5184,8 @@
         46
       ],
       "essentialityScore": 0.48,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Benedict XVI: charity in truth at the heart of Social Doctrine; nothing is morally neutral"
     },
     {
       "id": "p-042",
@@ -5157,8 +5198,9 @@
       "footnoteMarkers": [
         47
       ],
-      "essentialityScore": 0.38,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Francis / Evangelii Gaudium: the social dimension of the Gospel; a synodal Church"
     },
     {
       "id": "p-043",
@@ -5171,8 +5213,9 @@
       "footnoteMarkers": [
         48
       ],
-      "essentialityScore": 0.42,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Francis / Laudato Si': integral ecology; 'the cry of the earth and the cry of the poor'"
     },
     {
       "id": "p-044",
@@ -5186,8 +5229,9 @@
         49,
         50
       ],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Francis / Fratelli Tutti and Dilexit Nos: social friendship, fraternity, rooted in love of Christ"
     },
     {
       "id": "p-045",
@@ -5198,8 +5242,9 @@
       "sectionId": "development-social-doctrine",
       "sectionTitle": "The development of Social Doctrine from Leo XIII to the present",
       "footnoteMarkers": [],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Summary: Social Doctrine as a patient, faith-based reading of history across the pontificates"
     },
     {
       "id": "p-046",
@@ -5210,8 +5255,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Chapter 2 intro: the five principles to protect the person in the age of AI"
     },
     {
       "id": "p-047",
@@ -5222,8 +5268,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.45,
+      "contextNote": null,
+      "scoreReason": "Hope that laity and universities will apply these principles to the digital revolution"
     },
     {
       "id": "p-048",
@@ -5237,8 +5284,9 @@
         51,
         52
       ],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Foundation: the mystery of the Triune God as love in relationship; the human vocation to communion"
     },
     {
       "id": "p-049",
@@ -5252,8 +5300,9 @@
         53,
         54
       ],
-      "essentialityScore": 0.7,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "The face of Jesus, the Incarnate Word, in whom 'the mystery of humanity becomes clear'"
     },
     {
       "id": "p-050",
@@ -5267,8 +5316,9 @@
         55,
         56
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.78,
+      "contextNote": null,
+      "scoreReason": "Imago Dei: human dignity as a gift that precedes abilities, wealth or choices"
     },
     {
       "id": "p-051",
@@ -5283,8 +5333,9 @@
         58,
         59
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "Dignity threatened by the ideology that one must earn one's worth by being efficient"
     },
     {
       "id": "p-052",
@@ -5298,8 +5349,9 @@
         60,
         61
       ],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "The four senses of dignity, culminating in ontological dignity that nothing can diminish"
     },
     {
       "id": "p-053",
@@ -5313,8 +5365,9 @@
         62,
         63
       ],
-      "essentialityScore": 0.6,
-      "contextNote": null
+      "essentialityScore": 0.7,
+      "contextNote": null,
+      "scoreReason": "Dignitas Infinita: every person possesses an infinite, inalienable dignity"
     },
     {
       "id": "p-054",
@@ -5329,8 +5382,9 @@
         65,
         66
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Human rights as an expression of intrinsic dignity (Universal Declaration)"
     },
     {
       "id": "p-055",
@@ -5347,8 +5401,9 @@
         70,
         71
       ],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Rights inviolable and universal; the right to life as the precondition of all others"
     },
     {
       "id": "p-056",
@@ -5362,8 +5417,9 @@
         72,
         73
       ],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Two dangers to rights: merely formal proclamation and loss of their universal foundation"
     },
     {
       "id": "p-057",
@@ -5376,8 +5432,9 @@
       "footnoteMarkers": [
         74
       ],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "The unfinished task of guaranteeing women's equal dignity and rights in practice"
     },
     {
       "id": "p-058",
@@ -5388,8 +5445,9 @@
       "sectionId": "foundations",
       "sectionTitle": "The foundations of Social Doctrine",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "It is individual persons and families that matter, not abstract proclamations"
     },
     {
       "id": "p-059",
@@ -5402,8 +5460,9 @@
       "footnoteMarkers": [
         75
       ],
-      "essentialityScore": 0.75,
-      "contextNote": null
+      "essentialityScore": 0.7,
+      "contextNote": null,
+      "scoreReason": "First principle introduced: the common good as the social expression of dignity"
     },
     {
       "id": "p-060",
@@ -5417,8 +5476,9 @@
         76,
         77
       ],
-      "essentialityScore": 0.82,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Definition of the common good (Vatican II): the conditions for all to reach fulfillment; not the sum of interests"
     },
     {
       "id": "p-061",
@@ -5433,8 +5493,9 @@
         79,
         80
       ],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "The whole is greater than the sum of parts; the common good as a 'plus' from interdependence"
     },
     {
       "id": "p-062",
@@ -5447,8 +5508,9 @@
       "footnoteMarkers": [
         81
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "The common good gives life to a 'people'; a shared vision through dialogue"
     },
     {
       "id": "p-063",
@@ -5461,8 +5523,9 @@
       "footnoteMarkers": [
         82
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "The State's duty to harmonize sectoral interests with justice without abandoning the vulnerable"
     },
     {
       "id": "p-064",
@@ -5476,8 +5539,9 @@
         83,
         84
       ],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "The common good at the international level; condemning any plan to subjugate a nation"
     },
     {
       "id": "p-065",
@@ -5493,7 +5557,8 @@
         87
       ],
       "essentialityScore": 0.8,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Second principle: the universal destination of goods — the earth given to all, extended to immaterial/cultural goods"
     },
     {
       "id": "p-066",
@@ -5508,8 +5573,9 @@
         89,
         90
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Private property is real but always subordinate to the universal destination of goods (the 'golden rule')"
     },
     {
       "id": "p-067",
@@ -5520,8 +5586,9 @@
       "sectionId": "principles",
       "sectionTitle": "The principles of Social Doctrine",
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "New forms of property — patents, algorithms, platforms, data — and the imbalance when concentrated"
     },
     {
       "id": "p-068",
@@ -5534,8 +5601,9 @@
       "footnoteMarkers": [
         91
       ],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.78,
+      "contextNote": null,
+      "scoreReason": "Third principle: subsidiarity, rooted in respect for personal responsibility"
     },
     {
       "id": "p-069",
@@ -5550,8 +5618,9 @@
         93,
         94
       ],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Subsidiarity guides, not disengages, the State; intervention to enable, not supplant"
     },
     {
       "id": "p-070",
@@ -5564,8 +5633,9 @@
       "footnoteMarkers": [
         95
       ],
-      "essentialityScore": 0.78,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Beyond paternalism: a culture of shared responsibility and decisions made closest to people"
     },
     {
       "id": "p-071",
@@ -5578,8 +5648,9 @@
       "footnoteMarkers": [
         96
       ],
-      "essentialityScore": 0.6,
-      "contextNote": null
+      "essentialityScore": 0.7,
+      "contextNote": null,
+      "scoreReason": "Subsidiarity in the digital revolution: the 'highest level' is now Big Tech, not the State"
     },
     {
       "id": "p-072",
@@ -5592,8 +5663,9 @@
       "footnoteMarkers": [
         97
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "States and transnational bodies must ensure fair rules so communities have a voice over data/algorithms"
     },
     {
       "id": "p-073",
@@ -5608,8 +5680,9 @@
         99,
         100
       ],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.75,
+      "contextNote": null,
+      "scoreReason": "Fourth principle: solidarity — 'no one is saved alone'; its link to subsidiarity"
     },
     {
       "id": "p-074",
@@ -5622,8 +5695,9 @@
       "footnoteMarkers": [
         101
       ],
-      "essentialityScore": 0.82,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "'De facto' digital solidarity becomes real only as a conscious choice; entrusted to one another"
     },
     {
       "id": "p-075",
@@ -5637,8 +5711,9 @@
         102,
         103
       ],
-      "essentialityScore": 0.64,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "Solidarity as principle and virtue: a 'firm and persevering determination' for the common good"
     },
     {
       "id": "p-076",
@@ -5651,8 +5726,9 @@
       "footnoteMarkers": [
         104
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Global and intergenerational solidarity extended to the 'digital ecosystem'"
     },
     {
       "id": "p-077",
@@ -5665,8 +5741,9 @@
       "footnoteMarkers": [
         105
       ],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "Fifth principle: social justice as following Jesus; structures, not just individual behavior"
     },
     {
       "id": "p-078",
@@ -5680,8 +5757,9 @@
         106,
         107
       ],
-      "essentialityScore": 0.8,
-      "contextNote": null
+      "essentialityScore": 0.7,
+      "contextNote": null,
+      "scoreReason": "Social justice begins with the least; the preferential option for the poor against a 'throwaway' culture"
     },
     {
       "id": "p-079",
@@ -5695,7 +5773,8 @@
         108
       ],
       "essentialityScore": 0.62,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Structures of sin and the restorative dimension of justice — mending broken bonds"
     },
     {
       "id": "p-080",
@@ -5706,8 +5785,9 @@
       "sectionId": "principles",
       "sectionTitle": "The principles of Social Doctrine",
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.68,
+      "contextNote": null,
+      "scoreReason": "Social justice in the digital environment: opaque algorithms, surveillance, exclusion"
     },
     {
       "id": "p-081",
@@ -5720,8 +5800,9 @@
       "footnoteMarkers": [
         109
       ],
-      "essentialityScore": 0.7,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Migrants and refugees as a litmus test for whether justice is driven by fear or fraternity"
     },
     {
       "id": "p-082",
@@ -5734,8 +5815,9 @@
       "footnoteMarkers": [
         110
       ],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Integral human development (Populorum Progressio): the whole person and all peoples"
     },
     {
       "id": "p-083",
@@ -5749,8 +5831,9 @@
         111,
         112
       ],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Development as both duty and right; people at the center, not accumulation of wealth"
     },
     {
       "id": "p-084",
@@ -5761,8 +5844,9 @@
       "sectionId": "integral-development",
       "sectionTitle": "Integral human development",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Integral ecology as the benchmark: justice to people and care of our common home together"
     },
     {
       "id": "p-085",
@@ -5773,8 +5857,9 @@
       "sectionId": "integral-development",
       "sectionTitle": "Integral human development",
       "footnoteMarkers": [],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "Integral development as the lens for the digital revolution; the decisive evaluative question about AI"
     },
     {
       "id": "p-086",
@@ -5788,8 +5873,9 @@
         113,
         114
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "An examen for the Church: Social Doctrine applied first to her own structures (synodality)"
     },
     {
       "id": "p-087",
@@ -5802,8 +5888,9 @@
       "footnoteMarkers": [
         115
       ],
-      "essentialityScore": 0.7,
-      "contextNote": null
+      "essentialityScore": 0.42,
+      "contextNote": null,
+      "scoreReason": "Subsidiarity within the Church: genuine, not nominal, participatory bodies"
     },
     {
       "id": "p-088",
@@ -5814,8 +5901,9 @@
       "sectionId": "examen",
       "sectionTitle": "An examen for the Church",
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Solidarity in the Church rooted in the Eucharist and communion"
     },
     {
       "id": "p-089",
@@ -5829,8 +5917,9 @@
         116,
         117
       ],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Justice in the Church: listening to victims of abuse, accountability, sharing of goods"
     },
     {
       "id": "p-090",
@@ -5841,8 +5930,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Chapter 3 opening: the 'construction sites' of the era — what are we building, Babel or Jerusalem?"
     },
     {
       "id": "p-091",
@@ -5855,8 +5945,9 @@
       "footnoteMarkers": [
         118
       ],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Living social relationships in light of the Gospel as a task entrusted from generation to generation"
     },
     {
       "id": "p-092",
@@ -5869,8 +5960,9 @@
       "footnoteMarkers": [
         119
       ],
-      "essentialityScore": 0.6,
-      "contextNote": null
+      "essentialityScore": 0.92,
+      "contextNote": null,
+      "scoreReason": "The technocratic paradigm (Laudato Si'): efficiency/control/profit as the measure of everything"
     },
     {
       "id": "p-093",
@@ -5883,8 +5975,9 @@
       "footnoteMarkers": [
         120
       ],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.7,
+      "contextNote": null,
+      "scoreReason": "The paradigm's rapid spread via AI and biotech; Guardini — modern man untrained to use power well"
     },
     {
       "id": "p-094",
@@ -5898,8 +5991,9 @@
         121,
         122
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "Paul VI's warning: progress without moral growth turns against humanity — 'having more' vs 'being more'"
     },
     {
       "id": "p-095",
@@ -5910,8 +6004,9 @@
       "sectionId": "technocratic-paradigm",
       "sectionTitle": "The technocratic paradigm and digital power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.68,
+      "contextNote": null,
+      "scoreReason": "Digital power concentrated in private actors who set the conditions for participation"
     },
     {
       "id": "p-096",
@@ -5922,8 +6017,9 @@
       "sectionId": "technocratic-paradigm",
       "sectionTitle": "The technocratic paradigm and digital power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "The principles of Social Doctrine as the criteria for judging digital power"
     },
     {
       "id": "p-097",
@@ -5936,8 +6032,9 @@
       "footnoteMarkers": [
         123
       ],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Aim of the AI discussion: safeguard the primacy of human intelligence, conscience and freedom"
     },
     {
       "id": "p-098",
@@ -5948,8 +6045,9 @@
       "sectionId": "artificial-intelligence",
       "sectionTitle": "Artificial intelligence",
       "footnoteMarkers": [],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.7,
+      "contextNote": null,
+      "scoreReason": "Two cautions: AI claims age quickly, and AI is 'cultivated' more than 'built' (opaque even to designers)"
     },
     {
       "id": "p-099",
@@ -5960,8 +6058,9 @@
       "sectionId": "artificial-intelligence",
       "sectionTitle": "Artificial intelligence",
       "footnoteMarkers": [],
-      "essentialityScore": 0.42,
-      "contextNote": null
+      "essentialityScore": 0.95,
+      "contextNote": null,
+      "scoreReason": "Core anthropological claim: AI imitates functions but has no body, conscience, experience or moral judgment"
     },
     {
       "id": "p-100",
@@ -5972,8 +6071,9 @@
       "sectionId": "artificial-intelligence",
       "sectionTitle": "Artificial intelligence",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.96,
+      "contextNote": null,
+      "scoreReason": "AI as valuable yet requiring vigilance; personal-use risks — ease, false objectivity, simulated relationship that erodes the desire for real human connection"
     },
     {
       "id": "p-101",
@@ -5986,8 +6086,9 @@
       "footnoteMarkers": [
         124
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "AI embedded across sectors; its heavy environmental cost in energy and water"
     },
     {
       "id": "p-102",
@@ -6000,8 +6101,9 @@
       "footnoteMarkers": [
         125
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.68,
+      "contextNote": null,
+      "scoreReason": "Delegating sensitive decisions to systems that know no compassion; bias presented as neutrality"
     },
     {
       "id": "p-103",
@@ -6012,8 +6114,9 @@
       "sectionId": "artificial-intelligence",
       "sectionTitle": "Artificial intelligence",
       "footnoteMarkers": [],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Handing an algorithm the power to judge who is 'worthy' erases responsibility and compassion"
     },
     {
       "id": "p-104",
@@ -6026,8 +6129,9 @@
       "footnoteMarkers": [
         126
       ],
-      "essentialityScore": 0.88,
-      "contextNote": null
+      "essentialityScore": 0.93,
+      "contextNote": null,
+      "scoreReason": "Decisive claim: AI is not morally neutral; ethics must examine design, not just use"
     },
     {
       "id": "p-105",
@@ -6040,8 +6144,9 @@
       "footnoteMarkers": [
         127
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Responsibility and accountability must be assignable at every stage of an AI system"
     },
     {
       "id": "p-106",
@@ -6052,8 +6157,9 @@
       "sectionId": "artificial-intelligence",
       "sectionTitle": "Artificial intelligence",
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Prudence and a slower pace are responsible care; ethics-in-the-abstract is not enough"
     },
     {
       "id": "p-107",
@@ -6064,8 +6170,9 @@
       "sectionId": "artificial-intelligence",
       "sectionTitle": "Artificial intelligence",
       "footnoteMarkers": [],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "'Alignment' is insufficient if a few decide the moral vision embedded in AI"
     },
     {
       "id": "p-108",
@@ -6078,8 +6185,9 @@
       "footnoteMarkers": [
         128
       ],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.68,
+      "contextNote": null,
+      "scoreReason": "AI amplifies existing power; data as a common good, not private property"
     },
     {
       "id": "p-109",
@@ -6090,8 +6198,9 @@
       "sectionId": "artificial-intelligence",
       "sectionTitle": "Artificial intelligence",
       "footnoteMarkers": [],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.7,
+      "contextNote": null,
+      "scoreReason": "The five principles applied to AI asymmetry — naming the new monopolies"
     },
     {
       "id": "p-110",
@@ -6102,8 +6211,9 @@
       "sectionId": "artificial-intelligence",
       "sectionTitle": "Artificial intelligence",
       "footnoteMarkers": [],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "'Disarming' AI: freeing it from armed/commercial competition and monopolistic control"
     },
     {
       "id": "p-111",
@@ -6114,8 +6224,9 @@
       "sectionId": "artificial-intelligence",
       "sectionTitle": "Artificial intelligence",
       "footnoteMarkers": [],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "Special appeal to developers: every design choice embeds a vision of humanity"
     },
     {
       "id": "p-112",
@@ -6126,8 +6237,9 @@
       "sectionId": "what-must-not-be-lost",
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.68,
+      "contextNote": null,
+      "scoreReason": "What it means to safeguard humanity; the technocratic paradigm normalizing an anti-human vision"
     },
     {
       "id": "p-113",
@@ -6138,8 +6250,9 @@
       "sectionId": "what-must-not-be-lost",
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
-      "essentialityScore": 0.42,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "Absolutizing any one human faculty (e.g. intelligence) impoverishes the rest"
     },
     {
       "id": "p-114",
@@ -6150,8 +6263,9 @@
       "sectionId": "what-must-not-be-lost",
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
-      "essentialityScore": 0.38,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "A civilization is measured by its capacity for care, recognizing the other as a face"
     },
     {
       "id": "p-115",
@@ -6163,7 +6277,8 @@
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
       "essentialityScore": 0.6,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Transhumanism and posthumanism as the ideological backdrop of technological power"
     },
     {
       "id": "p-116",
@@ -6176,8 +6291,9 @@
       "footnoteMarkers": [
         129
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "Defining transhumanism (enhancement) and posthumanism (surpassing the human)"
     },
     {
       "id": "p-117",
@@ -6190,8 +6306,9 @@
       "footnoteMarkers": [
         130
       ],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "The key issue is the vision of the person, not technology as such"
     },
     {
       "id": "p-118",
@@ -6204,8 +6321,9 @@
       "footnoteMarkers": [
         131
       ],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "A crisis in our relationship with limits — illness, age, vulnerability — as defects to erase"
     },
     {
       "id": "p-119",
@@ -6216,8 +6334,9 @@
       "sectionId": "what-must-not-be-lost",
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Within limits we find compassion, generosity and the presence of the Lord"
     },
     {
       "id": "p-120",
@@ -6230,8 +6349,9 @@
       "footnoteMarkers": [
         132
       ],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Integrating rather than eliminating suffering; to erase it would extinguish love"
     },
     {
       "id": "p-121",
@@ -6244,8 +6364,9 @@
       "footnoteMarkers": [
         133
       ],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Even in moral horror a light persists (Frankl on Auschwitz)"
     },
     {
       "id": "p-122",
@@ -6256,8 +6377,9 @@
       "sectionId": "what-must-not-be-lost",
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
-      "essentialityScore": 0.42,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Accepted finitude opens us to the dignity of others; art that resists evil"
     },
     {
       "id": "p-123",
@@ -6268,8 +6390,9 @@
       "sectionId": "what-must-not-be-lost",
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "History shows humanity can build institutions that protect shared life (Red Cross, UN, 1951 Convention)"
     },
     {
       "id": "p-124",
@@ -6280,8 +6403,9 @@
       "sectionId": "what-must-not-be-lost",
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "History changes when dignity is taken seriously (civil rights, Mandela, exemplary women)"
     },
     {
       "id": "p-125",
@@ -6292,8 +6416,9 @@
       "sectionId": "what-must-not-be-lost",
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
-      "essentialityScore": 0.7,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "The hidden story of martyrs and 'martyrs of everyday life' who sustain hope"
     },
     {
       "id": "p-126",
@@ -6304,8 +6429,9 @@
       "sectionId": "what-must-not-be-lost",
       "sectionTitle": "What must not be lost",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Just institutions and daily fidelity direct progress; the question of an authentic 'more than human'"
     },
     {
       "id": "p-127",
@@ -6320,8 +6446,9 @@
         135,
         136
       ],
-      "essentialityScore": 0.75,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "The Christian 'more than human': self-transcendence through grace, not technology (Aquinas)"
     },
     {
       "id": "p-128",
@@ -6335,7 +6462,8 @@
         137
       ],
       "essentialityScore": 0.65,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "We become fully human through grace; for a person an error can be a catalyst, not just a flaw"
     },
     {
       "id": "p-129",
@@ -6348,8 +6476,9 @@
       "footnoteMarkers": [
         138
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.7,
+      "contextNote": null,
+      "scoreReason": "Christian humanism embraces science; John Paul II's test — does it make life 'more human'?"
     },
     {
       "id": "p-130",
@@ -6362,8 +6491,9 @@
       "footnoteMarkers": [
         139
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.68,
+      "contextNote": null,
+      "scoreReason": "Augustine's two loves and two cities; Babel or Jerusalem begins within each heart"
     },
     {
       "id": "p-131",
@@ -6374,8 +6504,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Chapter 4 intro: truth as a common good, the dignity of work, freedom against dependence"
     },
     {
       "id": "p-132",
@@ -6386,8 +6517,9 @@
       "sectionId": "truth-common-good",
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.7,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "Truth as a common good; disinformation amplified by AI; truth as rational and relational"
     },
     {
       "id": "p-133",
@@ -6402,8 +6534,9 @@
         141,
         142
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.68,
+      "contextNote": null,
+      "scoreReason": "Power detached from truth; John Paul II and Francis on the 'crisis of truth' and human dignity"
     },
     {
       "id": "p-134",
@@ -6416,8 +6549,9 @@
       "footnoteMarkers": [
         143
       ],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "Truth as essential to democracy; Arendt on subjects who lose the line between fact and fiction"
     },
     {
       "id": "p-135",
@@ -6431,8 +6565,9 @@
         144,
         145
       ],
-      "essentialityScore": 0.6,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Communication creates culture, not just transmits information; the online world is real life"
     },
     {
       "id": "p-136",
@@ -6443,8 +6578,9 @@
       "sectionId": "truth-common-good",
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Those who control platforms can present a particular vision of reality as desirable"
     },
     {
       "id": "p-137",
@@ -6455,8 +6591,9 @@
       "sectionId": "truth-common-good",
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "An 'ecology of communication': transparency, serious journalism, education, verification"
     },
     {
       "id": "p-138",
@@ -6469,8 +6606,9 @@
       "footnoteMarkers": [
         146
       ],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Christian communities owe transparency; gratitude to journalists who expose abuse"
     },
     {
       "id": "p-139",
@@ -6482,7 +6620,8 @@
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
       "essentialityScore": 0.55,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Education as decisive; the culture of immediacy erodes the effort to seek truth"
     },
     {
       "id": "p-140",
@@ -6495,8 +6634,9 @@
       "footnoteMarkers": [
         147
       ],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Education as a long journey; Plato on learning through dialogue; restraint in using AI"
     },
     {
       "id": "p-141",
@@ -6507,8 +6647,9 @@
       "sectionId": "truth-common-good",
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Documented harm to minors from early, unsupervised device and social-media exposure"
     },
     {
       "id": "p-142",
@@ -6522,8 +6663,9 @@
         148,
         149
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "An alliance of policy, schools and families to protect minors from attention-monetizing models"
     },
     {
       "id": "p-143",
@@ -6534,8 +6676,9 @@
       "sectionId": "truth-common-good",
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "School as a place to seek and love truth; parents' primary right to choose education"
     },
     {
       "id": "p-144",
@@ -6546,8 +6689,9 @@
       "sectionId": "truth-common-good",
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "First education challenge (socio-political): unequal access to quality education"
     },
     {
       "id": "p-145",
@@ -6558,8 +6702,9 @@
       "sectionId": "truth-common-good",
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Second challenge (pedagogical): curricula and schools made obsolete by AI; forming teachers"
     },
     {
       "id": "p-146",
@@ -6570,8 +6715,9 @@
       "sectionId": "truth-common-good",
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Third challenge (intellectual): fragmented information replacing reflection and discernment"
     },
     {
       "id": "p-147",
@@ -6582,8 +6728,9 @@
       "sectionId": "truth-common-good",
       "sectionTitle": "Truth as a common good",
       "footnoteMarkers": [],
-      "essentialityScore": 0.42,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "A renewed educational alliance translating principles into educational goals"
     },
     {
       "id": "p-148",
@@ -6596,8 +6743,9 @@
       "footnoteMarkers": [
         150
       ],
-      "essentialityScore": 0.6,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "The dignity of work since Rerum Novarum; work as the 'essential key' to the social question"
     },
     {
       "id": "p-149",
@@ -6610,8 +6758,9 @@
       "footnoteMarkers": [
         151
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Work expresses and enhances dignity; aid cannot replace dignified work"
     },
     {
       "id": "p-150",
@@ -6625,7 +6774,8 @@
         152
       ],
       "essentialityScore": 0.7,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Automation/robotics/AI reshaping work; de-skilling and surveillance; design centered on the person"
     },
     {
       "id": "p-151",
@@ -6639,8 +6789,9 @@
         153,
         154
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "John Paul II — unemployment a grave evil; the 'fourth industrial revolution' and job insecurity"
     },
     {
       "id": "p-152",
@@ -6651,8 +6802,9 @@
       "sectionId": "dignity-of-work",
       "sectionTitle": "The dignity of work at a time of digital transition",
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "Technology may relieve hard tasks, but protecting jobs is the rule; the person is an end, not a means"
     },
     {
       "id": "p-153",
@@ -6663,8 +6815,9 @@
       "sectionId": "dignity-of-work",
       "sectionTitle": "The dignity of work at a time of digital transition",
       "footnoteMarkers": [],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Transitions are uneven; no single model; AI's varied effects in rich and hybrid economies"
     },
     {
       "id": "p-154",
@@ -6677,8 +6830,9 @@
       "footnoteMarkers": [
         155
       ],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Work as expression and relationship; access to work as a criterion for any development model"
     },
     {
       "id": "p-155",
@@ -6692,8 +6846,9 @@
         156,
         157
       ],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Post–Rerum Novarum instruments (unions, cooperatives) no longer sufficient alone"
     },
     {
       "id": "p-156",
@@ -6704,8 +6859,9 @@
       "sectionId": "dignity-of-work",
       "sectionTitle": "The dignity of work at a time of digital transition",
       "footnoteMarkers": [],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Social criteria for innovation: protect employment, retraining, dignity as a success indicator"
     },
     {
       "id": "p-157",
@@ -6718,8 +6874,9 @@
       "footnoteMarkers": [
         158
       ],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "Economic freedom is not absolute; entrepreneurship as vocation creating dignified jobs"
     },
     {
       "id": "p-158",
@@ -6734,7 +6891,8 @@
         160
       ],
       "essentialityScore": 0.58,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Francis on inclusive growth; the poor pay the highest price in crises"
     },
     {
       "id": "p-159",
@@ -6745,8 +6903,9 @@
       "sectionId": "dignity-of-work",
       "sectionTitle": "The dignity of work at a time of digital transition",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Moving beyond GDP to metrics that capture wellbeing and the environment"
     },
     {
       "id": "p-160",
@@ -6759,8 +6918,9 @@
       "footnoteMarkers": [
         161
       ],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Finance and cryptocurrencies; the irreplaceable social function of credit for real work"
     },
     {
       "id": "p-161",
@@ -6773,8 +6933,9 @@
       "footnoteMarkers": [
         162
       ],
-      "essentialityScore": 0.42,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Wealth increasingly concentrated; technology will not automatically benefit everyone"
     },
     {
       "id": "p-162",
@@ -6787,8 +6948,9 @@
       "footnoteMarkers": [
         163
       ],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Redistribution and just taxation that ask more of those with greater resources"
     },
     {
       "id": "p-163",
@@ -6802,8 +6964,9 @@
         164,
         165
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "Beyond the 'invisible hand': politics must orient economy and technology to the common good"
     },
     {
       "id": "p-164",
@@ -6814,8 +6977,9 @@
       "sectionId": "dignity-of-work",
       "sectionTitle": "The dignity of work at a time of digital transition",
       "footnoteMarkers": [],
-      "essentialityScore": 0.7,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Concrete economic criteria: transparency/accountability, inclusion/access, equity"
     },
     {
       "id": "p-165",
@@ -6830,8 +6994,9 @@
         167,
         168
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "The family as a primary social good and the first cell of community"
     },
     {
       "id": "p-166",
@@ -6842,8 +7007,9 @@
       "sectionId": "dignity-of-work",
       "sectionTitle": "The dignity of work at a time of digital transition",
       "footnoteMarkers": [],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "The family as a fragile good harmed by job insecurity; needs cultural and economic support"
     },
     {
       "id": "p-167",
@@ -6857,8 +7023,9 @@
         169,
         170
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Job insecurity especially devastating for the young (US Bishops); work and identity"
     },
     {
       "id": "p-168",
@@ -6871,8 +7038,9 @@
       "footnoteMarkers": [
         171
       ],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "The State's duty to foster employment and place the family at the center"
     },
     {
       "id": "p-169",
@@ -6883,8 +7051,9 @@
       "sectionId": "dignity-of-work",
       "sectionTitle": "The dignity of work at a time of digital transition",
       "footnoteMarkers": [],
-      "essentialityScore": 0.6,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Concrete supports for families and the young: stable work, rest, retraining, social ties"
     },
     {
       "id": "p-170",
@@ -6895,8 +7064,9 @@
       "sectionId": "protecting-freedom",
       "sectionTitle": "Protecting freedom against dependencies and commercialization",
       "footnoteMarkers": [],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "The 'digital attention economy' and addiction; designing for interior freedom and digital sobriety"
     },
     {
       "id": "p-171",
@@ -6907,8 +7077,9 @@
       "sectionId": "protecting-freedom",
       "sectionTitle": "Protecting freedom against dependencies and commercialization",
       "footnoteMarkers": [],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "Social control via mass data and profiling; freedom in the digital age as a public concern"
     },
     {
       "id": "p-172",
@@ -6921,8 +7092,9 @@
       "footnoteMarkers": [
         172
       ],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "A technocratic, post-humanist mentality that treats the person as object; 'second-class' humans"
     },
     {
       "id": "p-173",
@@ -6933,8 +7105,9 @@
       "sectionId": "protecting-freedom",
       "sectionTitle": "Protecting freedom against dependencies and commercialization",
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "Digital servitude: hidden data-labeling labor and child mining behind AI; trafficking via platforms"
     },
     {
       "id": "p-174",
@@ -6946,7 +7119,8 @@
       "sectionTitle": "Protecting freedom against dependencies and commercialization",
       "footnoteMarkers": [],
       "essentialityScore": 0.62,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "The fight against new slavery as a decisive test for the ethical discernment of AI"
     },
     {
       "id": "p-175",
@@ -6959,8 +7133,9 @@
       "footnoteMarkers": [
         173
       ],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Human trafficking as a contemporary form of slavery; tolerating it is complicity"
     },
     {
       "id": "p-176",
@@ -6976,7 +7151,8 @@
         176
       ],
       "essentialityScore": 0.92,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "The Church's growth in conscience on slavery; sorrow for past complicity — 'I sincerely ask for pardon'"
     },
     {
       "id": "p-177",
@@ -6987,8 +7163,9 @@
       "sectionId": "protecting-freedom",
       "sectionTitle": "Protecting freedom against dependencies and commercialization",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "Memory of past complicity as a call to vigilance and present responsibility against trafficking"
     },
     {
       "id": "p-178",
@@ -6999,8 +7176,9 @@
       "sectionId": "protecting-freedom",
       "sectionTitle": "Protecting freedom against dependencies and commercialization",
       "footnoteMarkers": [],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "A new colonialism that extracts data — health, genetic, demographic — as the new 'rare earths'"
     },
     {
       "id": "p-179",
@@ -7011,8 +7189,9 @@
       "sectionId": "protecting-freedom",
       "sectionTitle": "Protecting freedom against dependencies and commercialization",
       "footnoteMarkers": [],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Action on transparent supply chains, due diligence, and platform cooperation against exploitation"
     },
     {
       "id": "p-180",
@@ -7023,8 +7202,9 @@
       "sectionId": "shared-responsibility",
       "sectionTitle": "A shared responsibility",
       "footnoteMarkers": [],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "The common thread: if technology is the ultimate criterion, the person is reduced to data"
     },
     {
       "id": "p-181",
@@ -7035,8 +7215,9 @@
       "sectionId": "shared-responsibility",
       "sectionTitle": "A shared responsibility",
       "footnoteMarkers": [],
-      "essentialityScore": 0.7,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Social Doctrine's call for shared responsibility across institutions, business, communities, citizens"
     },
     {
       "id": "p-182",
@@ -7047,8 +7228,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "Chapter 5 opening: turning to war; peace as a prerequisite for the universal common good"
     },
     {
       "id": "p-183",
@@ -7059,8 +7241,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.68,
+      "contextNote": null,
+      "scoreReason": "The digital revolution changing the nature of conflict; AI as accelerant; ambivalent technologies"
     },
     {
       "id": "p-184",
@@ -7071,8 +7254,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Two approaches restated: the Tower of Babel of power vs rebuilding Jerusalem 'piece by piece'"
     },
     {
       "id": "p-185",
@@ -7083,8 +7267,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.68,
+      "contextNote": null,
+      "scoreReason": "The culture of power and polarization; the 'civilization of love' as the alternative construction site"
     },
     {
       "id": "p-186",
@@ -7098,8 +7283,9 @@
         177,
         178
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "The 'civilization of love' (Paul VI; Fratelli Tutti): charity translated into structures of justice"
     },
     {
       "id": "p-187",
@@ -7112,8 +7298,9 @@
       "footnoteMarkers": [
         179
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Turning imposed digital interdependence into willed solidarity and a universal human family"
     },
     {
       "id": "p-188",
@@ -7124,8 +7311,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "A culture of power where domination dictates the agenda and war is normalized"
     },
     {
       "id": "p-189",
@@ -7139,8 +7327,9 @@
         180,
         181
       ],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Paul VI's 'never again war'; the post-war turn making peace the focus of the international order"
     },
     {
       "id": "p-190",
@@ -7151,8 +7340,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "A paradigm shift: the troubling revival of war as an instrument of politics"
     },
     {
       "id": "p-191",
@@ -7163,8 +7353,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "A disconcerting loss of historical memory of the World Wars and Holocaust"
     },
     {
       "id": "p-192",
@@ -7177,8 +7368,9 @@
       "footnoteMarkers": [
         182
       ],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "Media/AI amplifying polarization; the explicit teaching that 'just war' theory is now outdated"
     },
     {
       "id": "p-193",
@@ -7189,8 +7381,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "The military-industrial complex and the economic interests that fuel war"
     },
     {
       "id": "p-194",
@@ -7201,8 +7394,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Renewed nuclear arsenals; the Treaty on the Prohibition of Nuclear Weapons and its limits"
     },
     {
       "id": "p-195",
@@ -7213,8 +7407,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.45,
+      "contextNote": null,
+      "scoreReason": "Conventional warfare becoming protracted; conflict prevention marginalized"
     },
     {
       "id": "p-196",
@@ -7225,8 +7420,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.42,
-      "contextNote": null
+      "essentialityScore": 0.48,
+      "contextNote": null,
+      "scoreReason": "New armed operatives and the end of the State's monopoly on force"
     },
     {
       "id": "p-197",
@@ -7240,8 +7436,9 @@
         183,
         184
       ],
-      "essentialityScore": 0.55,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "Autonomous weapons making war more 'feasible'; the demand for rigorous ethical constraints"
     },
     {
       "id": "p-198",
@@ -7252,8 +7449,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.7,
+      "contextNote": null,
+      "scoreReason": "No lethal or irreversible decision may be delegated to AI; no algorithm makes war acceptable"
     },
     {
       "id": "p-199",
@@ -7264,8 +7462,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.38,
-      "contextNote": null
+      "essentialityScore": 0.65,
+      "contextNote": null,
+      "scoreReason": "Criteria for AI in war: personal responsibility, the moral timeframe, protection of civilians"
     },
     {
       "id": "p-200",
@@ -7276,8 +7475,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Non-negotiable requirements: traceability, human control over lethal force, an international framework"
     },
     {
       "id": "p-201",
@@ -7288,8 +7488,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "The crisis of multilateralism; economic globalization without an adequate political framework"
     },
     {
       "id": "p-202",
@@ -7302,8 +7503,9 @@
       "footnoteMarkers": [
         185
       ],
-      "essentialityScore": 0.42,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Identity forged against an enemy; 'might makes right' replacing international law"
     },
     {
       "id": "p-203",
@@ -7314,8 +7516,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.52,
+      "contextNote": null,
+      "scoreReason": "Peacebuilding relegated to a secondary role; humanitarian law compromised"
     },
     {
       "id": "p-204",
@@ -7326,8 +7529,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.35,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Spiritual and cultural blindness; hybrid wars on economic, financial and cyber fronts"
     },
     {
       "id": "p-205",
@@ -7338,8 +7542,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.4,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "A 'false realism' that treats war as inevitable; true peace as the fruit of justice and charity"
     },
     {
       "id": "p-206",
@@ -7352,8 +7557,9 @@
       "footnoteMarkers": [
         186
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Nihilism and pragmatism normalizing grave errors; diversity perceived as threat"
     },
     {
       "id": "p-207",
@@ -7364,8 +7570,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Fertile ground for new, more dangerous wars that disregard ethical limits"
     },
     {
       "id": "p-208",
@@ -7376,8 +7583,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.5,
-      "contextNote": null
+      "essentialityScore": 0.45,
+      "contextNote": null,
+      "scoreReason": "The open question of concrete safeguards against future violence"
     },
     {
       "id": "p-209",
@@ -7388,8 +7596,9 @@
       "sectionId": "culture-of-power",
       "sectionTitle": "The culture of power",
       "footnoteMarkers": [],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "The special responsibility of researchers not to hide behind supposed moral neutrality"
     },
     {
       "id": "p-210",
@@ -7400,8 +7609,9 @@
       "sectionId": "building-civilization",
       "sectionTitle": "Building the civilization of love",
       "footnoteMarkers": [],
-      "essentialityScore": 0.7,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "The Christian perspective: not only denouncing evil; the Kingdom growing like a mustard seed"
     },
     {
       "id": "p-211",
@@ -7412,8 +7622,9 @@
       "sectionId": "building-civilization",
       "sectionTitle": "Building the civilization of love",
       "footnoteMarkers": [],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "The Lord raises up peacemakers; grace inspires active resistance to evil"
     },
     {
       "id": "p-212",
@@ -7424,8 +7635,9 @@
       "sectionId": "building-civilization",
       "sectionTitle": "Building the civilization of love",
       "footnoteMarkers": [],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Resisting resignation disguised as realism; no one is without responsibility in their own sphere"
     },
     {
       "id": "p-213",
@@ -7438,8 +7650,9 @@
       "footnoteMarkers": [
         187
       ],
-      "essentialityScore": 0.88,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Tolkien on our task — 'uprooting the evil in the fields that we know'; the five paths of responsibility introduced"
     },
     {
       "id": "p-214",
@@ -7453,8 +7666,9 @@
         188,
         189
       ],
-      "essentialityScore": 0.62,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "First path: disarm words — 'let us disarm words and we will help to disarm the world'"
     },
     {
       "id": "p-215",
@@ -7468,8 +7682,9 @@
         190,
         191
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.6,
+      "contextNote": null,
+      "scoreReason": "Second path: build peace through justice (Augustine — justice and peace have embraced)"
     },
     {
       "id": "p-216",
@@ -7483,8 +7698,9 @@
         192,
         193
       ],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.58,
+      "contextNote": null,
+      "scoreReason": "Refusing false neutrality before atrocities; 'touch the wounded flesh' of those who suffer"
     },
     {
       "id": "p-217",
@@ -7498,8 +7714,9 @@
         194,
         195
       ],
-      "essentialityScore": 0.52,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Third path: adopt the perspective of victims; the Church as living memory"
     },
     {
       "id": "p-218",
@@ -7511,7 +7728,8 @@
       "sectionTitle": "Building the civilization of love",
       "footnoteMarkers": [],
       "essentialityScore": 0.55,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Fourth path: a healthy realism between idealism and cynicism"
     },
     {
       "id": "p-219",
@@ -7524,8 +7742,9 @@
       "footnoteMarkers": [
         196
       ],
-      "essentialityScore": 0.6,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Fifth path: dialogue; Pius XII — nothing is lost with peace"
     },
     {
       "id": "p-220",
@@ -7536,8 +7755,9 @@
       "sectionId": "building-civilization",
       "sectionTitle": "Building the civilization of love",
       "footnoteMarkers": [],
-      "essentialityScore": 0.48,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "Dialogue as an ordinary attitude of fraternity that makes war unthinkable"
     },
     {
       "id": "p-221",
@@ -7550,8 +7770,9 @@
       "footnoteMarkers": [
         197
       ],
-      "essentialityScore": 0.42,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "From a 'culture of power' to a 'culture of negotiation' (La Pira)"
     },
     {
       "id": "p-222",
@@ -7564,8 +7785,9 @@
       "footnoteMarkers": [
         198
       ],
-      "essentialityScore": 0.65,
-      "contextNote": null
+      "essentialityScore": 0.62,
+      "contextNote": null,
+      "scoreReason": "Direct appeal to leaders: 'Let us meet, let us talk, let us negotiate! War is never inevitable'"
     },
     {
       "id": "p-223",
@@ -7579,8 +7801,9 @@
         199,
         200
       ],
-      "essentialityScore": 0.58,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "Interreligious dialogue and the 'spirit of Assisi'; using God's name for violence betrays religion"
     },
     {
       "id": "p-224",
@@ -7594,7 +7817,8 @@
         201
       ],
       "essentialityScore": 0.5,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Diplomacy as an irreplaceable tool for preventing conflict and rebuilding trust"
     },
     {
       "id": "p-225",
@@ -7606,7 +7830,8 @@
       "sectionTitle": "Building the civilization of love",
       "footnoteMarkers": [],
       "essentialityScore": 0.55,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Cyberspace as a battleground; the need for shared regulation of digital technologies"
     },
     {
       "id": "p-226",
@@ -7619,8 +7844,9 @@
       "footnoteMarkers": [
         202
       ],
-      "essentialityScore": 0.45,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "The UN and international organizations as essential but in need of profound reform"
     },
     {
       "id": "p-227",
@@ -7631,8 +7857,9 @@
       "sectionId": "building-civilization",
       "sectionTitle": "Building the civilization of love",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.5,
+      "contextNote": null,
+      "scoreReason": "The Holy See's diplomacy of mercy in service of the poor, migrants and victims of war"
     },
     {
       "id": "p-228",
@@ -7646,8 +7873,9 @@
         203,
         204
       ],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.55,
+      "contextNote": null,
+      "scoreReason": "These paths of responsibility are sustained by, and nourish, prayer for peace"
     },
     {
       "id": "p-229",
@@ -7658,8 +7886,9 @@
       "sectionId": null,
       "sectionTitle": null,
       "footnoteMarkers": [],
-      "essentialityScore": 0.88,
-      "contextNote": null
+      "essentialityScore": 0.92,
+      "contextNote": null,
+      "scoreReason": "Conclusion: a sober but demanding program of Christian life for the age of AI"
     },
     {
       "id": "p-230",
@@ -7672,8 +7901,9 @@
       "footnoteMarkers": [
         205
       ],
-      "essentialityScore": 0.78,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "The Magnificat's plan of mercy as a compass for living the Gospel in the digital era"
     },
     {
       "id": "p-231",
@@ -7688,8 +7918,9 @@
         207,
         208
       ],
-      "essentialityScore": 0.82,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "At the heart of everything: the Incarnation; the vulnerable flesh of the Son and of the suffering"
     },
     {
       "id": "p-232",
@@ -7705,7 +7936,8 @@
         211
       ],
       "essentialityScore": 0.75,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "Against transhumanist disembodiment: the Incarnation as God descending to free us and transform weakness"
     },
     {
       "id": "p-233",
@@ -7719,7 +7951,8 @@
         212
       ],
       "essentialityScore": 0.96,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "The human face remains the center of history; no system can create a heart that gives itself or a conscience that discerns"
     },
     {
       "id": "p-234",
@@ -7733,8 +7966,9 @@
         213,
         214
       ],
-      "essentialityScore": 0.72,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "A Eucharistic spirituality of ecclesial unity in love (Augustine — 'be a member of the Body of Christ')"
     },
     {
       "id": "p-235",
@@ -7748,8 +7982,9 @@
         215,
         216
       ],
-      "essentialityScore": 0.85,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "The Eucharistic 'Amen' shaping life; opening us to justice, sharing and the marginalized"
     },
     {
       "id": "p-236",
@@ -7763,7 +7998,8 @@
         217
       ],
       "essentialityScore": 0.94,
-      "contextNote": null
+      "contextNote": null,
+      "scoreReason": "The spirituality of the 'wise architect'; the construction site of a civilization of love already running"
     },
     {
       "id": "p-237",
@@ -7778,8 +8014,9 @@
         219,
         220
       ],
-      "essentialityScore": 0.9,
-      "contextNote": null
+      "essentialityScore": 0.91,
+      "contextNote": null,
+      "scoreReason": "Program point 1: remain faithful to truth amid manipulative algorithms; a 'situated anthropocentrism'"
     },
     {
       "id": "p-238",
@@ -7790,8 +8027,9 @@
       "sectionId": "construction-site",
       "sectionTitle": "The construction site of our time",
       "footnoteMarkers": [],
-      "essentialityScore": 0.88,
-      "contextNote": null
+      "essentialityScore": 0.91,
+      "contextNote": null,
+      "scoreReason": "Program point 2: invest in education; the digital world as a continent to be evangelized"
     },
     {
       "id": "p-239",
@@ -7802,8 +8040,9 @@
       "sectionId": "construction-site",
       "sectionTitle": "The construction site of our time",
       "footnoteMarkers": [],
-      "essentialityScore": 0.88,
-      "contextNote": null
+      "essentialityScore": 0.91,
+      "contextNote": null,
+      "scoreReason": "Program point 3: cultivate relationships and genuine physical presence over multiplied connection"
     },
     {
       "id": "p-240",
@@ -7816,8 +8055,9 @@
       "footnoteMarkers": [
         221
       ],
-      "essentialityScore": 0.9,
-      "contextNote": null
+      "essentialityScore": 0.92,
+      "contextNote": null,
+      "scoreReason": "Program point 4: love justice and peace; scrutinize supply chains and the mechanisms that profit from war"
     },
     {
       "id": "p-241",
@@ -7828,8 +8068,9 @@
       "sectionId": "construction-site",
       "sectionTitle": "The construction site of our time",
       "footnoteMarkers": [],
-      "essentialityScore": 0.92,
-      "contextNote": null
+      "essentialityScore": 0.93,
+      "contextNote": null,
+      "scoreReason": "Program point 5: the Nehemiah vocation — enter the construction sites of history to rebuild and protect"
     },
     {
       "id": "p-242",
@@ -7840,8 +8081,9 @@
       "sectionId": "construction-site",
       "sectionTitle": "The construction site of our time",
       "footnoteMarkers": [],
-      "essentialityScore": 0.68,
-      "contextNote": null
+      "essentialityScore": 0.72,
+      "contextNote": null,
+      "scoreReason": "The New Jerusalem given first as gift (Revelation): open gates, healing of the nations"
     },
     {
       "id": "p-243",
@@ -7854,8 +8096,9 @@
       "footnoteMarkers": [
         222
       ],
-      "essentialityScore": 0.9,
-      "contextNote": null
+      "essentialityScore": 0.92,
+      "contextNote": null,
+      "scoreReason": "Prayer as the fourth pillar; Mary's Magnificat seeing all history through God's saving plan"
     },
     {
       "id": "p-244",
@@ -7869,8 +8112,9 @@
         223,
         224
       ],
-      "essentialityScore": 0.85,
-      "contextNote": null
+      "essentialityScore": 0.9,
+      "contextNote": null,
+      "scoreReason": "Mary directs our gaze to the broken points of the world — history seen through the eyes of the little ones"
     },
     {
       "id": "p-245",
@@ -7881,8 +8125,9 @@
       "sectionId": "song-of-hope",
       "sectionTitle": "The song of hope: the Magnificat",
       "footnoteMarkers": [],
-      "essentialityScore": 0.98,
-      "contextNote": null
+      "essentialityScore": 0.96,
+      "contextNote": null,
+      "scoreReason": "Final blessing: become 'weavers of hope'; entrustment to the Woman of the Magnificat"
     }
   ],
   "readingTimeTiers": [
@@ -8068,5 +8313,16 @@
       "footnotes": []
     }
   ],
-  "aiDisclosure": "Passage selection scores and context notes were generated by Claude (Sonnet 4.6 / Haiku 4.5, Anthropic). All displayed text is the original encyclical."
+  "aiDisclosure": "Passage selection scores and context notes were generated by Claude (Sonnet 4.6 / Haiku 4.5, Anthropic). All displayed text is the original encyclical.",
+  "scoringMetadata": {
+    "method": "LLM essentiality scoring grounded in the full source text, calibrated to reader anchors",
+    "model": "claude-opus-4-8 (in-session, Claude Code)",
+    "scoredDate": "2026-06-13",
+    "anchorsFile": "data/scoring-anchors.json",
+    "anchorFloor": 0.9,
+    "explicitOverrides": {
+      "100": 0.96
+    },
+    "regenerateWith": "scripts/score-passages.py  (see docs/scoring.md)"
+  }
 }
